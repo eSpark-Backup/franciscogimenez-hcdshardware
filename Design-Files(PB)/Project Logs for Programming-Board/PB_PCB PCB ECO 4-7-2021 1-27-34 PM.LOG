@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VREGIN Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VREGIN Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Member From Class: ClassName=U_Connector Section Member=C7
+Removed Member From Class: ClassName=U_Connector Section Member=C8
+Added Component: Designator=P1(TEST POINT)
+Added Component: Designator=P2(TEST POINT)
+Added Component: Designator=P3(TEST POINT)
+Added Component: Designator=P4(TEST POINT)
+Added Component: Designator=P5(TEST POINT)
+Added Component: Designator=P6(TEST POINT)
+Added Pin To Net: NetName=GND Pin=J2-MH1
+Added Pin To Net: NetName=GND Pin=J2-MH2
+Added Pin To Net: NetName=GND Pin=J2-MH3
+Added Pin To Net: NetName=GND Pin=J2-MH4
+Added Pin To Net: NetName=RTS Pin=P1-1
+Added Pin To Net: NetName=RXD Pin=P2-1
+Added Pin To Net: NetName=TXD Pin=P3-1
+Added Pin To Net: NetName=DTR Pin=P4-1
+Added Pin To Net: NetName=USB_DP Pin=P5-1
+Added Pin To Net: NetName=USB_DM Pin=P6-1
+Added Member To Class: ClassName=U_USB-UART Section Member=Component P1 Test Point
+Added Member To Class: ClassName=U_USB-UART Section Member=Component P2 Test Point
+Added Member To Class: ClassName=U_USB-UART Section Member=Component P3 Test Point
+Added Member To Class: ClassName=U_USB-UART Section Member=Component P4 Test Point
+Added Member To Class: ClassName=U_USB-UART Section Member=Component P5 Test Point
+Added Member To Class: ClassName=U_USB-UART Section Member=Component P6 Test Point

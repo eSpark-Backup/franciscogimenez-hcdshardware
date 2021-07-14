@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [HairColorDispenser.PcbDoc]
+   Generated File[HairColorDispenser.TXT]
+   Generated File[HairColorDispenser.DRL]
+   Generated File[HairColorDispenser.LDP]
+   Generated File[HairColorDispenser.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:41:43 On 05-Aug-20

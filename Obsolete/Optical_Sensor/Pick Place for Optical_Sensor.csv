@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\eSpark Group\Downloads\FranciscoG\FranciscoG\Design-Files(OB)\Project Outputs for Optical Sensor_\Pick Place for Optical_Sensor.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/06/21
+Time:       03:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"R3","BottomLayer","Res-0201","3090,000mil","3012,500mil","180","3090,000mil","3012,500mil","3100,827mil","3012,500mil"
+"J1","BottomLayer","B3B-XH-A(LF)(SN)","3194,000mil","2644,000mil","0","3244,000mil","2644,000mil","3094,000mil","2644,000mil"
+"R2","BottomLayer","Res-0201","3090,000mil","2979,000mil","180","3090,000mil","2979,000mil","3100,827mil","2979,000mil"
+"R1","BottomLayer","Res-0201","3298,000mil","3122,000mil","90","3298,000mil","3122,000mil","3298,000mil","3111,173mil"
+"C1","BottomLayer","Cap_0201","3088,000mil","3046,000mil","360","3088,000mil","3046,000mil","3075,008mil","3046,000mil"
+"U1","TopLayer","QRD1114","3194,370mil","3080,000mil","90","3194,370mil","3080,000mil","3144,370mil","3038,465mil"

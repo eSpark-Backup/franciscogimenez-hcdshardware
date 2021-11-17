@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=   NewDesignator=J13
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=#SW Pin=C7-1
+Added Pin To Net: NetName=#VBST Pin=C7-2
+Added Pin To Net: NetName=VCC_5V Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=VBUS_12V Pin=R8-2
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=IO35 Pin=R31-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=#SW Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Pin To Net: NetName=NetR5_2 Pin=U2-4
+Added Pin To Net: NetName=NetR31_1 Pin=U2-5
+Added Pin To Net: NetName=#VBST Pin=U2-6
+Added Pin To Net: NetName=VBAT Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=NetR8_1 Pin=U4-4
+Added Pin To Net: NetName=GATE Pin=U4-5
+Added Pin To Net: NetName=VCC_IN Pin=U4-6
+Added Member To Class: ClassName=U_Power_Section Member=Component C5 10uF
+Added Member To Class: ClassName=U_Power_Section Member=Component C6 0.1uF
+Added Member To Class: ClassName=U_Power_Section Member=Component C7 0.1uF
+Added Member To Class: ClassName=U_Actuator_Section2 Member=Component J13 Optical Sensor
+Added Member To Class: ClassName=U_Power_Section Member=Component R5 54.9K
+Added Member To Class: ClassName=U_Power_Section Member=Component R8 470K
+Added Member To Class: ClassName=U_Power_Section Member=Component R31 10K
+Added Member To Class: ClassName=U_Actuator_Section Member=Component Rp1 10K
+Added Member To Class: ClassName=U_Power_Section Member=Component U2 TPS565208DDCT
+Added Member To Class: ClassName=U_Power_Section Member=Component U4 LTC4412IS6#TRPBF

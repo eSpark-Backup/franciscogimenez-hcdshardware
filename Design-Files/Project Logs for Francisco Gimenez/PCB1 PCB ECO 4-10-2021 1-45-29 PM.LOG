@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=ENABLE Pin=R2-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R2-2
+Removed Pin From Net: NetName=IO27 Pin=U1-17
+Removed Pin From Net: NetName=DTR Pin=U1-21
+Removed Pin From Net: NetName=RTS Pin=U1-22
+Removed Pin From Net: NetName=IO_0 Pin=U1-36
+Removed Member From Class: ClassName=Controller_Section Member=C2
+Removed Member From Class: ClassName=Controller_Section Member=R2
+Change Component Designator: OldDesignator=2 NewDesignator=R12
+Added Pin To Net: NetName=ENABLE Pin=R1-1
+Added Pin To Net: NetName=ENABLE Pin=SW1-1
+Added Pin To Net: NetName=IO27 Pin=U1-12
+Added Pin To Net: NetName=IO_0 Pin=U1-25
+Added Member To Class: ClassName=Connector_Section Member=Component R77 5.1K
+Added Member To Class: ClassName=Connector_Section Member=Component R78 5.1K

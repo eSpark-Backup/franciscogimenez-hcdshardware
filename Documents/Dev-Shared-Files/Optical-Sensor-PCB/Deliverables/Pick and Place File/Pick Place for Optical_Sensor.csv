@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Waqar\Desktop\Francisco\Design Files\Project Outputs for Optical Sensor_\Pick Place for Optical_Sensor.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/12/20
+Time:       18:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"J1","B3B-XH-A(LF)(SN)","BottomLayer","B3B-XH-A(LF)(SN)","3194,000mil","2644,000mil","0","CONN HEADER VERT 3POS 2.5MM","3244,000mil","2644,000mil","3094,000mil","2644,000mil"
+"R2","220R","BottomLayer","Res-0201","3102,000mil","2911,000mil","270","Res Thick Film 0201 220 Ohm 1% 1/20W ±200ppm/°C Molded SMD SMD Paper T/R","3102,000mil","2911,000mil","3102,000mil","2921,827mil"
+"R1","470R","BottomLayer","Res-0201","3349,000mil","2911,000mil","90","Res Thick Film 0201 470 Ohm 5% 0.05W(1/20W) ±200ppm/C Molded SMD Paper T/R","3349,000mil","2911,000mil","3349,000mil","2900,173mil"
+"C1","0.01uF","BottomLayer","Cap_0201","3030,000mil","2922,000mil","360","CAP CER 10000PF 16V X5R 0201","3030,000mil","2922,000mil","3017,008mil","2922,000mil"
+"U1","QRD1114","TopLayer","QRD1114","3194,370mil","3080,000mil","90","QRD1114 Series 30 V 50 mA Phototransistor Reflective Object Sensor","3194,370mil","3080,000mil","3144,370mil","3038,465mil"

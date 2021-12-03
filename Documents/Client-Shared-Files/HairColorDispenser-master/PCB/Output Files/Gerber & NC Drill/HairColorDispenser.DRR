@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HairColorDispenser.PcbDoc   05-Aug-20  20:41:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HairColorDispenser.TXT
+EIA File   : HairColorDispenser.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             86        PTH        23.67inch (601.20mm)
+T2      20mil (0.508mm)                                           Round             13        PTH        7.42inch (188.54mm)
+T3      39mil (1.001mm)                                           Round             59        PTH        14.72inch (373.91mm)
+T4      122mil (3.099mm)                                          Round             4         PTH        8.61inch (218.65mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              162
+
+Total Processing Time (hh:mm:ss) : 00:00:00

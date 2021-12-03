@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT_RST Pin=R37-1
+Removed Pin From Net: NetName=VBAT_IN Pin=R37-2
+Added Pin To Net: NetName=VBAT_IN Pin=R37-1
+Added Pin To Net: NetName=BAT_RST Pin=R37-2

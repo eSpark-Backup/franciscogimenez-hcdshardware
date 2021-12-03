@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Optical Sensor_.PrjPcb]
+   Generated File[Optical_Sensor.TXT]
+   Generated File[Optical_Sensor.LDP]
+   Generated File[Optical_Sensor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:07:24 AM On 6/3/2021

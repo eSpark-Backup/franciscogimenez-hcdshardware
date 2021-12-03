@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Users\eSpark Group\Downloads\FranciscoG\FranciscoG\Design-Files(PB)\Project Outputs for Programming-Board\Pick Place for PB_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/06/21
+Time:       04:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"J1","TopLayer","2305018-2","1868,071mil","4726,500mil","90","1868,071mil","4726,500mil","1801,142mil","4606,421mil"
+"U1","TopLayer","28-QFN_(5x5)","1555,000mil","4695,000mil","360","1555,000mil","4695,000mil","1460,512mil","4754,055mil"
+"P6","TopLayer","TEST_POINT","1065,000mil","4935,000mil","0","1065,000mil","4935,000mil","1065,000mil","4935,000mil"
+"P5","TopLayer","TEST_POINT","1190,000mil","4935,000mil","0","1190,000mil","4935,000mil","1190,000mil","4935,000mil"
+"P4","TopLayer","TEST_POINT","1315,000mil","4935,000mil","0","1315,000mil","4935,000mil","1315,000mil","4935,000mil"
+"P3","TopLayer","TEST_POINT","1440,000mil","4935,000mil","0","1440,000mil","4935,000mil","1440,000mil","4935,000mil"
+"P2","TopLayer","TEST_POINT","1565,000mil","4935,000mil","0","1565,000mil","4935,000mil","1565,000mil","4935,000mil"
+"P1","TopLayer","TEST_POINT","1690,000mil","4935,000mil","0","1690,000mil","4935,000mil","1690,000mil","4935,000mil"
+"R7","BottomLayer","Res-0201","1850,000mil","4784,000mil","270","1850,000mil","4784,000mil","1850,000mil","4794,827mil"
+"R6","BottomLayer","Res-0201","1800,000mil","4678,000mil","90","1800,000mil","4678,000mil","1800,000mil","4667,173mil"
+"R5","BottomLayer","Res-0201","1023,000mil","4709,000mil","180","1023,000mil","4709,000mil","1033,827mil","4709,000mil"
+"R4","BottomLayer","Res-0201","1023,000mil","4740,000mil","180","1023,000mil","4740,000mil","1033,827mil","4740,000mil"
+"R3","BottomLayer","Res-0201","1710,000mil","4555,000mil","90","1710,000mil","4555,000mil","1710,000mil","4544,173mil"
+"R2","BottomLayer","Res-0201","1625,000mil","4555,000mil","90","1625,000mil","4555,000mil","1625,000mil","4544,173mil"
+"R1","BottomLayer","Res-0201","1528,000mil","4555,000mil","90","1528,000mil","4555,000mil","1528,000mil","4544,173mil"
+"LED2","TopLayer","LED_0402","1715,000mil","4550,000mil","180","1715,000mil","4550,000mil","1733,500mil","4550,000mil"
+"LED1","TopLayer","LED_0402","1600,000mil","4550,000mil","360","1600,000mil","4550,000mil","1581,500mil","4550,000mil"
+"J2","TopLayer","10118194-0001LF","1146,850mil","4685,130mil","270","1200,000mil","4685,130mil","1200,000mil","4736,311mil"
+"D1","BottomLayer","SOT-143-4","1125,000mil","4698,000mil","90","1125,000mil","4698,000mil","1081,693mil","4668,472mil"
+"C6","BottomLayer","CAP_0201","1450,000mil","4580,000mil","180","1450,000mil","4580,000mil","1461,811mil","4580,000mil"
+"C5","TopLayer","Cap0603","1355,000mil","4555,000mil","180","1355,000mil","4555,000mil","1385,000mil","4555,000mil"
+"C4","TopLayer","Cap0603","1355,000mil","4656,333mil","180","1355,000mil","4656,333mil","1385,000mil","4656,333mil"
+"C3","TopLayer","CAP_0201","1384,000mil","4705,000mil","90","1384,000mil","4705,000mil","1384,000mil","4693,189mil"
+"C2","TopLayer","CAP_0201","1435,000mil","4593,000mil","270","1435,000mil","4593,000mil","1435,000mil","4604,811mil"
+"C1","TopLayer","Cap0603","1355,000mil","4605,667mil","180","1355,000mil","4605,667mil","1385,000mil","4605,667mil"

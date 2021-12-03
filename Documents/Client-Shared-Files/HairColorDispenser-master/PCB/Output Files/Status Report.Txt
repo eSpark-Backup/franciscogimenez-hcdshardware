@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 02:32:20 On 23-Jul-20
+
+Output: STEP
+Type  : ExportSTEP
+From  : PCB Document [HairColorDispenser.PcbDoc]
+   Generated File[HairColorDispenser.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 02:32:27 On 23-Jul-20

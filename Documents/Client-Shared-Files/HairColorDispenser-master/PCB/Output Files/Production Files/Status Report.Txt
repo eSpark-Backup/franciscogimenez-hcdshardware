@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 02:36:40 On 23-Jul-20
+
+Output: BOM&PnP
+Type  : BOM
+From  : Project [HairColorDispenser.PrjPcb]
+   Generated File[HairColorDispenser.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 02:36:46 On 23-Jul-20

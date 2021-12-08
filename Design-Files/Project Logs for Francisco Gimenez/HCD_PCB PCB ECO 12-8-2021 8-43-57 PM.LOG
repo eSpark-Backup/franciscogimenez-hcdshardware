@@ -1,0 +1,3 @@
+Change Component Comment : Designator=J14 Old Comment=RFID Container New Comment=RFID Tablet
+Change Component Comment : Designator=J15 Old Comment=RFID Tablet New Comment=RFID Tray
+Added Member To Class: ClassName=U_Buck_Regulator_Section Member=Component R12 10K

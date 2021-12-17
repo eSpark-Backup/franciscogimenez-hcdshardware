@@ -1,0 +1,75 @@
+Board Information Report
+Filename     : D:\eSpark\FranciscoGimenez-HCDSHardware\Design-Files\HCD_PCB.PcbDoc
+Date         : 12/17/2021
+Time         : 1:01:48 PM
+Time Elapsed : 00:04:00
+
+General
+    Board Size, 70.1556mmx87.072mm
+    Components on board, 115
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 271
+    Connections routed, 271
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 373, 234, 0, 3029, 0, 61, 6, 0
+    Bottom Layer, 431, 69, 0, 2572, 0, 38, 0, 0
+    Mechanical 1, 0, 0, 0, 16, 2, 0, 0, 113
+    Mechanical 2, 4, 0, 0, 11, 0, 0, 0, 0
+    Mechanical 13, 1, 0, 0, 5, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 12, 0, 0, 0, 0
+    Multi-Layer, 0, 66, 184, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 24, 0, 0, 501, 219, 19, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 5, 0, 0, 3210, 122, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 1, 2, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 16
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 6.935, 4474.005, 73%
+    Bottom Layer, 6.842, 4414.299, 72%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 0, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 0, 0
+    0.3mm, 0, 0
+    1mm, 0, 0
+    3.1mm, 0, 0
+count : 4
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    17.716mil / 57.087mil, 0
+    17.716mil / 64.961mil, 0
+count : 2
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Pad Solder Mask, Count
+count : 0
+
+Via Solder Mask, Count
+count : 0

@@ -1,11 +1,10 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Francisco Gimenez.PrjPCB]
-   Generated File[Pick Place for HCD_PCB.txt]
-   Generated File[Pick Place for HCD_PCB.csv]
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [Francisco Gimenez.PrjPCB]
+   Generated File[HCD_PCB.xls]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:43:48 AM On 4/24/2021
+Finished Output Generation At 12:54:43 PM On 12/17/2021

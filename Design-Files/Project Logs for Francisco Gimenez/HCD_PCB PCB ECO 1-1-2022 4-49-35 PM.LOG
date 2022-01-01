@@ -1,0 +1,310 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=J1-1
+Removed Pin From Net: NetName=MISO Pin=J1-2
+Removed Pin From Net: NetName=MOSI Pin=J1-3
+Removed Pin From Net: NetName=RFID_SIG.SCK Pin=J1-4
+Removed Pin From Net: NetName=RFID_SIG.RST3 Pin=J1-5
+Removed Pin From Net: NetName=RFID_SIG.SS3 Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=IN_PA Pin=J2-1
+Removed Pin From Net: NetName=IN_NA Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=AVDD# Pin=J2-4
+Removed Pin From Net: NetName=VCC_5V Pin=J10-1
+Removed Pin From Net: NetName=#SERVO Pin=J10-2
+Removed Pin From Net: NetName=GND Pin=J10-3
+Removed Pin From Net: NetName=VCC_5V Pin=J11-1
+Removed Pin From Net: NetName=#RGB Pin=J11-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=J13-1
+Removed Pin From Net: NetName=ACTUATOR2_SIG.OP_SNS Pin=J13-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=J14-1
+Removed Pin From Net: NetName=MISO Pin=J14-2
+Removed Pin From Net: NetName=MOSI Pin=J14-3
+Removed Pin From Net: NetName=RFID_SIG.SCK Pin=J14-4
+Removed Pin From Net: NetName=RFID_SIG.RST1 Pin=J14-5
+Removed Pin From Net: NetName=RFID_SIG.SS1 Pin=J14-6
+Removed Pin From Net: NetName=GND Pin=J14-7
+Removed Pin From Net: NetName=MISO Pin=J15-2
+Removed Pin From Net: NetName=MOSI Pin=J15-3
+Removed Pin From Net: NetName=RFID_SIG.SCK Pin=J15-4
+Removed Pin From Net: NetName=RFID_SIG.RST2 Pin=J15-5
+Removed Pin From Net: NetName=RFID_SIG.SS2 Pin=J15-6
+Removed Pin From Net: NetName=GND Pin=J15-7
+Removed Pin From Net: NetName=MISO Pin=J17-1
+Removed Pin From Net: NetName=MOSI Pin=J17-2
+Removed Pin From Net: NetName=RFID_SIG.SCK Pin=J17-3
+Removed Pin From Net: NetName=GND Pin=J17-4
+Removed Pin From Net: NetName=#SERVO_2 Pin=J20-1
+Removed Pin From Net: NetName=VCC_5V Pin=J20-2
+Removed Pin From Net: NetName=ACTUATOR2_SIG.Rx2 Pin=J26-1
+Removed Pin From Net: NetName=GND Pin=J26-2
+Removed Pin From Net: NetName=ACTUATOR2_SIG.Tx2 Pin=J27-1
+Removed Pin From Net: NetName=GND Pin=J27-2
+Removed Pin From Net: NetName=ACTUATOR2_SIG.OP_SNS Pin=J28-1
+Removed Pin From Net: NetName=ACTUATOR2_SIG.OP_SNS Pin=U1-6
+Removed Pin From Net: NetName=ACTUATOR2_SIG.Rx2 Pin=U1-27
+Removed Pin From Net: NetName=ACTUATOR2_SIG.Tx2 Pin=U1-28
+Removed Member From Class: ClassName=U_Actuator_Section2 Member=J26
+Removed Member From Class: ClassName=U_Actuator_Section2 Member=J27
+Change Component Footprint: Designator=J26 Old Footprint=B2B-XH-A(LF)(SN) New Footprint=HDR_F_1X3
+Change Component Footprint: Designator=J27 Old Footprint=B2B-XH-A(LF)(SN) New Footprint=SOT-23-5
+Change Component Footprint: Designator=J11 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=HDR_F_1X3
+Change Component Footprint: Designator=J13 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=HDR_F_1X3
+Change Component Footprint: Designator=J20 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=HDR_F_1X4
+Change Component Footprint: Designator=J10 Old Footprint=B3B-XH-A(LF)(SN) New Footprint=HDR_F_1X7
+Change Component Footprint: Designator=J17 Old Footprint=B4B-XH-A(LF)(SN) New Footprint=B7B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J2 Old Footprint=B4B-XH-A(LF)(SN) New Footprint=HDR_F_1X7
+Change Component Footprint: Designator=J1 Old Footprint=B7B-XH-A(LF)(SN) New Footprint=B4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=J14 Old Footprint=B7B-XH-A(LF)(SN) New Footprint=HDR_F_1X3
+Change Component Footprint: Designator=J15 Old Footprint=B7B-XH-A(LF)(SN) New Footprint=HDR_F_1X3
+Change Component Comment : Designator=J26 Old Comment=B2B-XH-A(LF)(SN) New Comment=HDR_F_1X3
+Change Component Comment : Designator=J27 Old Comment=B2B-XH-A(LF)(SN) New Comment=SN74LV1T34DBVR
+Change Component Comment : Designator=J17 Old Comment=B4B-XH-A(LF)(SN) New Comment=B7B-XH-A(LF)(SN)
+Change Component Comment : Designator=J13 Old Comment=Optical Sensor New Comment=HDR_F_1X3
+Change Component Comment : Designator=J14 Old Comment=RFID Tablet New Comment=HDR_F_1X3
+Change Component Comment : Designator=J1 Old Comment=RFID Tray New Comment=B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=J15 Old Comment=RFID Tray New Comment=HDR_F_1X3
+Change Component Comment : Designator=J2 Old Comment=Weight Sensor New Comment=HDR_F_1X7
+Change Component Comment : Designator=J11 Old Comment=WS2812B New Comment=HDR_F_1X3
+Change Component Comment : Designator=J20 Old Comment=WS2812B New Comment=HDR_F_1X4
+Change Component Comment : Designator=J10 Old Comment=WS2812B New Comment=HDR_F_1X7
+Change Component Designator: OldDesignator=D4 NewDesignator=LED4
+Change Component Designator: OldDesignator=D5 NewDesignator=LED5
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J2 NewDesignator=J15
+Change Component Designator: OldDesignator=J10 NewDesignator=J1
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J13 NewDesignator=J11
+Change Component Designator: OldDesignator=J14 NewDesignator=J12
+Change Component Designator: OldDesignator=J15 NewDesignator=J13
+Change Component Designator: OldDesignator=J17 NewDesignator=J14
+Change Component Designator: OldDesignator=J20 NewDesignator=J2
+Change Component Designator: OldDesignator=J26 NewDesignator=J20
+Change Component Designator: OldDesignator=J27 NewDesignator=U10
+Change component parameters: Designator = "J1" ("J?"); Footprint = "B7B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\KZVZSYLQ" ("\WIJPUBXI\KFBBLFJF\KZVZSYLQ")
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=640571&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=640571&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=455616&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=455616&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin,Copper,Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "5.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "12.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "XH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2249-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Press-Fit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "22AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J17" ("J14"); Footprint = "B4B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\UFCSBOHT" ("\WIJPUBXI\KFBBLFJF\UFCSBOHT")
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=440406&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=440406&src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Mating"; Value = "TIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Copper,Tin,Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "5.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Detent"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "19.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "B7B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "XH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2252-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "22AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J14" ("J12"); Footprint = "B7B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\VFUXGCDK" ("\WIJPUBXI\KFBBLFJF\VFUXGCDK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J15" ("J13"); Footprint = "B7B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\YVLGLWBU\COVOVUXT" ("\WIJPUBXI\YVLGLWBU\COVOVUXT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J15"); Footprint = "B4B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\HZZJHWPW" ("\WIJPUBXI\KFBBLFJF\HZZJHWPW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J26" ("J20"); Footprint = "B2B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\FQKMYEUX" ("\WIJPUBXI\KFBBLFJF\FQKMYEUX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J10" ("J1"); Footprint = "B3B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\CNSPCHHE" ("\WIJPUBXI\KFBBLFJF\CNSPCHHE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J11" ("J10"); Footprint = "B3B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\GNIOXJUK" ("\WIJPUBXI\KFBBLFJF\GNIOXJUK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J13" ("J11"); Footprint = "B3B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\ZCVJZDNM" ("\WIJPUBXI\KFBBLFJF\ZCVJZDNM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J20" ("J2"); Footprint = "B3B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\HWUDPUQR\OAYJLDVY" ("\WIJPUBXI\HWUDPUQR\OAYJLDVY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J27" ("U10"); Footprint = "B2B-XH-A(LF)(SN)"; UniqueID = "\WIJPUBXI\KFBBLFJF\YUZWMEUR" ("\WIJPUBXI\KFBBLFJF\YUZWMEUR")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/pdf/sdyu001?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/pdf/sdyu001?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High Level Output Current"; Value = "-8mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Function"; Value = "Buffer,Inverting"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Level Output Current"; Value = "8mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV1T34DBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits per Element"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Input Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Inputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Output Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "8mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.43, 10=0.349, 25=0.3192, 100=0.2374, 250=0.2152, 500=0.17808, 1000=0.13356 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "15.5ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "1uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "37360"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-37176-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.000353oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=J1-1
+Added Pin To Net: NetName=MISO Pin=J1-2
+Added Pin To Net: NetName=MOSI Pin=J1-3
+Added Pin To Net: NetName=RFID_SIG.SCK Pin=J1-4
+Added Pin To Net: NetName=RFID_SIG.RST3 Pin=J1-5
+Added Pin To Net: NetName=RFID_SIG.SS3 Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=IN_PA Pin=J2-1
+Added Pin To Net: NetName=IN_NA Pin=J2-2
+Added Pin To Net: NetName=AVDD# Pin=J2-4
+Added Pin To Net: NetName=MISO Pin=J4-1
+Added Pin To Net: NetName=MOSI Pin=J4-2
+Added Pin To Net: NetName=RFID_SIG.SCK Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=#SERVO Pin=J10-1
+Added Pin To Net: NetName=VCC_5V Pin=J10-2
+Added Pin To Net: NetName=VCC_5V Pin=J11-1
+Added Pin To Net: NetName=#RGB Pin=J11-2
+Added Pin To Net: NetName=VCC_5V Pin=J12-1
+Added Pin To Net: NetName=ACTUATOR2_SIG.OP_SNS Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J12-3
+Added Pin To Net: NetName=ACTUATOR2_SIG.Rx2 Pin=J13-2
+Added Pin To Net: NetName=GND Pin=J13-3
+Added Pin To Net: NetName=VCC_3V3 Pin=J14-1
+Added Pin To Net: NetName=MISO Pin=J14-2
+Added Pin To Net: NetName=MOSI Pin=J14-3
+Added Pin To Net: NetName=RFID_SIG.SCK Pin=J14-4
+Added Pin To Net: NetName=RFID_SIG.RST1 Pin=J14-5
+Added Pin To Net: NetName=RFID_SIG.SS1 Pin=J14-6
+Added Pin To Net: NetName=GND Pin=J14-7
+Added Pin To Net: NetName=VCC_3V3 Pin=J15-1
+Added Pin To Net: NetName=MISO Pin=J15-2
+Added Pin To Net: NetName=MOSI Pin=J15-3
+Added Pin To Net: NetName=RFID_SIG.SCK Pin=J15-4
+Added Pin To Net: NetName=RFID_SIG.RST2 Pin=J15-5
+Added Pin To Net: NetName=RFID_SIG.SS2 Pin=J15-6
+Added Pin To Net: NetName=GND Pin=J15-7
+Added Pin To Net: NetName=#SERVO_2 Pin=J20-1
+Added Pin To Net: NetName=VCC_5V Pin=J20-2
+Added Pin To Net: NetName=GND Pin=J20-3
+Added Pin To Net: NetName=ACTUATOR2_SIG.Rx2 Pin=J28-1
+Added Pin To Net: NetName=ACTUATOR2_SIG.Rx2 Pin=U1-6
+Added Pin To Net: NetName=ACTUATOR2_SIG.Tx2 Pin=U1-27
+Added Pin To Net: NetName=ACTUATOR2_SIG.Tx2 Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=ACTUATOR2_SIG.OP_SNS Pin=U10-4
+Added Pin To Net: NetName=VCC_5V Pin=U10-5
+Change Net Name : Old Net Name=ACTUATOR2_SIG.OP_SNS New Net Name=RGB2
+Change Net Name : Old Net Name=ACTUATOR2_SIG.Rx2 New Net Name=OP_SNS
+Change Net Name : Old Net Name=ACTUATOR2_SIG.Tx2 New Net Name=#RGB2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetLED5_2
+Added Member To Class: ClassName=U_Sensor_Section Member=Component J4 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_Sensor_Section Member=Component U10 SN74LV1T34DBVR

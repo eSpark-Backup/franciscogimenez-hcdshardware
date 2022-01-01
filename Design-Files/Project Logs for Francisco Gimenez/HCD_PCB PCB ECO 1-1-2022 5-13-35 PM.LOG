@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=U_Actuator_Section2 Member=J10
+Removed Member From Class: ClassName=U_Sensor_Section Member=J13
+Removed Member From Class: ClassName=U_Actuator_Section Member=J15
+Change Component Library : Designator=J1 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Change Component Library : Designator=J2 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Change Component Library : Designator=J10 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Change Component Library : Designator=J11 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Change Component Library : Designator=J12 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Change Component Library : Designator=J13 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Change Component Library : Designator=J15 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Change Component Library : Designator=J20 Old Library=Francisco_Lib.IntLib New Library=Francisco_Sch.SchLib
+Added Member To Class: ClassName=U_Sensor_Section Member=Component J1 HDR_F_1X7
+Added Member To Class: ClassName=U_Actuator_Section Member=Component J2 HDR_F_1X4
+Added Member To Class: ClassName=U_Sensor_Section Member=Component J11 HDR_F_1X3
+Added Member To Class: ClassName=U_Actuator_Section2 Member=Component J13 HDR_F_1X3
+Added Member To Class: ClassName=U_Sensor_Section Member=Component J14 B7B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_Sensor_Section Member=Component J20 HDR_F_1X3

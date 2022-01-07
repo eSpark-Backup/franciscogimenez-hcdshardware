@@ -1,0 +1,50 @@
+Added Component: Designator=J5(HDR_M_1X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=J6(HDR_M_1X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=J7(HDR_M_1X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=J8(HDR_M_1X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=J11(HDR_M_1X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=J5-1
+Added Pin To Net: NetName=#RGB Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=VCC_3V3 Pin=J6-1
+Added Pin To Net: NetName=OP_SNS Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=VCC_5V Pin=J7-1
+Added Pin To Net: NetName=#RGB2 Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=VCC_5V Pin=J8-1
+Added Pin To Net: NetName=#SERVO Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=#SERVO_2 Pin=J11-1
+Added Pin To Net: NetName=VCC_5V Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Member To Class: ClassName=Connector_Sheet Member=Component J5 HDR_M_1X3
+Added Member To Class: ClassName=Connector_Sheet Member=Component J6 HDR_M_1X3
+Added Member To Class: ClassName=Connector_Sheet Member=Component J7 HDR_M_1X3
+Added Member To Class: ClassName=Connector_Sheet Member=Component J8 HDR_M_1X3
+Added Member To Class: ClassName=Connector_Sheet Member=Component J11 HDR_M_1X3

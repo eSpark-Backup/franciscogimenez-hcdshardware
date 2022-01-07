@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\Git\FranciscoGimenez-HCDSHardware\Design-Files\HCD_PCB.PcbDoc
-Date     : 12/8/2021
-Time     : 8:49:27 PM
+PCB File : C:\Users\eSpark-37\Documents\GitHub\FranciscoGimenez-HCDSHardware\Design-Files\HCD_PCB.PcbDoc
+Date     : 1/7/2022
+Time     : 10:52:46 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:01

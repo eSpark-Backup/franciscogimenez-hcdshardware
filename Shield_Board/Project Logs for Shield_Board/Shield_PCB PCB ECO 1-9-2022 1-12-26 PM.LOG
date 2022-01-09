@@ -1,0 +1,15 @@
+Added Component: Designator=J10(HDR_M_1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=J10-1
+Added Pin To Net: NetName=MISO Pin=J10-2
+Added Pin To Net: NetName=MOSI Pin=J10-3
+Added Pin To Net: NetName=SCK Pin=J10-4
+Added Pin To Net: NetName=RST2 Pin=J10-5
+Added Pin To Net: NetName=SS2 Pin=J10-6
+Added Pin To Net: NetName=GND Pin=J10-7
+Added Member To Class: ClassName=Connector_Sheet Member=Component J10 HDR_M_1X7

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DTR Pin=J1-A2
+Removed Pin From Net: NetName=RTS Pin=J1-A10
+Removed Pin From Net: NetName=DTR Pin=J1-B2
+Removed Pin From Net: NetName=RTS Pin=J1-B10
+Removed Pin From Net: NetName=USB_DP Pin=P5-1
+Removed Pin From Net: NetName=USB_DM Pin=P6-1
+Added Pin To Net: NetName=RTS Pin=J1-A3
+Added Pin To Net: NetName=DTR Pin=J1-A11
+Added Pin To Net: NetName=RTS Pin=J1-B3
+Added Pin To Net: NetName=DTR Pin=J1-B11
+Added Pin To Net: NetName=3V3 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Member To Class: ClassName=U_USB-UART Section Member=Component U1 CP2102N-A02-GQFN28R

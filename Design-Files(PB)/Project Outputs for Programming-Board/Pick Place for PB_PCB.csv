@@ -1,16 +1,17 @@
 Altium Designer Pick and Place Locations
-E:\GitHub\Francisco-Gimenez\Design-Files(PB)\Project Outputs for Programming-Board\Pick Place for PB_PCB.csv
+E:\Git\FranciscoGimenez-HCDSHardware\Design-Files(PB)\Project Outputs for Programming-Board\Pick Place for PB_PCB.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       16/04/21
-Time:       11:45
-Revision:   ff7966094049fcb9086f0ab273528017ef57c22e
+Date:       01/02/22
+Time:       19:12
+Revision:   ccf24242b649f96e2077d11ed9388701e88f1b43
 Variant:    No variations
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"J1","2305018-2","TopLayer","2305018-2","1868.071","4726.500","90","CONN RCP USB3.1 TYPEC 24P SMD RA","1868.071","4726.500","1801.142","4606.421"
 "U1","CP2102N-A02-GQFN28R","TopLayer","28-QFN_(5x5)","1555.000","4695.000","360","IC USB TO UART BRIDGE QFN28","1555.000","4695.000","1460.512","4754.055"
 "P6","Test Point","TopLayer","TEST_POINT","1065.000","4935.000","0","Test Point ON","1065.000","4935.000","1065.000","4935.000"
 "P5","Test Point","TopLayer","TEST_POINT","1190.000","4935.000","0","Test Point ON","1190.000","4935.000","1190.000","4935.000"
@@ -28,7 +29,6 @@ Units used: mil
 "LED2","LED Blue","TopLayer","LED_0402","1715.000","4550.000","180","LED BLUE CLEAR CHIP SMD 0402","1715.000","4550.000","1733.500","4550.000"
 "LED1","LED Blue","TopLayer","LED_0402","1600.000","4550.000","360","LED BLUE CLEAR CHIP SMD 0402","1600.000","4550.000","1581.500","4550.000"
 "J2","10118194-0001LF","TopLayer","10118194-0001LF","1146.850","4685.130","270","CONN RCPT USB2.0 MICRO B SMD R/A","1200.000","4685.130","1200.000","4736.311"
-"J1","2305018-2","TopLayer","2305018-2","1868.071","4726.500","90","CONN RCP USB3.1 TYPEC 24P SMD RA","1868.071","4726.500","1801.142","4606.421"
 "D1","SP0503BAHTG","BottomLayer","SOT-143-4","1125.000","4698.000","90","ESD Suppressor TVS 5.5V 4-Pin(3+Tab) SOT-143 T/R","1125.000","4698.000","1081.693","4668.472"
 "C6","0.1uF","BottomLayer","CAP_0201","1450.000","4580.000","180","CAP CER 0.1UF 25V X6S 0201","1450.000","4580.000","1461.811","4580.000"
 "C5","4.7uF","TopLayer","Cap0603","1355.000","4555.000","180","CAP CER 4.7UF 25V X5R 0603","1355.000","4555.000","1385.000","4555.000"

@@ -1,13 +1,11 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Programming-Board.PrjPcb]
-   Generated File[PB_PCB-RoundHoles.TXT]
-   Generated File[PB_PCB-SlotHoles.TXT]
-   Generated File[PB_PCB.LDP]
-   Generated File[PB_PCB.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Programming-Board.PrjPcb]
+   Generated File[Pick Place for PB_PCB.txt]
+   Generated File[Pick Place for PB_PCB.csv]
 
 
-Files Generated   : 4
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 11:40:23 AM On 4/16/2021
+Finished Output Generation At 7:12:25 PM On 2/1/2022

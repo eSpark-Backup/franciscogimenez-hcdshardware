@@ -1,0 +1,903 @@
+Added Component: Designator=LED1(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED10(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED11(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED12(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED13(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED14(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED15(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED16(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED17(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED18(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED19(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED20(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED21(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED22(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED23(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED24(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED25(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED26(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED27(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED28(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED29(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED30(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED31(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED32(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED33(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED34(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED35(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED36(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED37(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED38(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED39(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED40(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED41(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED42(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED43(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED44(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED45(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED46(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED47(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED48(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED49(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED50(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED51(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED52(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED53(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED54(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED55(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED56(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED57(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED58(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED59(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED60(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED61(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED62(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED63(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED64(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED65(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED66(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED67(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED68(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED69(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED70(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED71(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=LED72(LED 0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.htmlhttps://www.alibaba.com/product-detail/KTRLIGHT-0201-SMD-LED-Red-620_1600215749086.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KTRLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "0201 smd led red chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES-0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED2-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R1-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED4-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R17-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED6-2
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R2-2
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED8-2
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R18-2
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED10-2
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R3-2
+Added Net: Name=NetLED10_1
+Added Pin To Net: NetName=NetLED11_1 Pin=LED11-1
+Added Pin To Net: NetName=NetLED11_1 Pin=LED12-2
+Added Net: Name=NetLED11_1
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_1 Pin=R19-2
+Added Net: Name=NetLED12_1
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=NetLED13_1 Pin=LED14-2
+Added Net: Name=NetLED13_1
+Added Pin To Net: NetName=NetLED14_1 Pin=LED14-1
+Added Pin To Net: NetName=NetLED14_1 Pin=R4-2
+Added Net: Name=NetLED14_1
+Added Pin To Net: NetName=NetLED15_1 Pin=LED15-1
+Added Pin To Net: NetName=NetLED15_1 Pin=LED16-2
+Added Net: Name=NetLED15_1
+Added Pin To Net: NetName=NetLED16_1 Pin=LED16-1
+Added Pin To Net: NetName=NetLED16_1 Pin=R20-2
+Added Net: Name=NetLED16_1
+Added Pin To Net: NetName=NetLED17_1 Pin=LED17-1
+Added Pin To Net: NetName=NetLED17_1 Pin=LED18-2
+Added Net: Name=NetLED17_1
+Added Pin To Net: NetName=NetLED18_1 Pin=LED18-1
+Added Pin To Net: NetName=NetLED18_1 Pin=R5-2
+Added Net: Name=NetLED18_1
+Added Pin To Net: NetName=NetLED19_1 Pin=LED19-1
+Added Pin To Net: NetName=NetLED19_1 Pin=LED20-2
+Added Net: Name=NetLED19_1
+Added Pin To Net: NetName=NetLED20_1 Pin=LED20-1
+Added Pin To Net: NetName=NetLED20_1 Pin=R21-2
+Added Net: Name=NetLED20_1
+Added Pin To Net: NetName=NetLED21_1 Pin=LED21-1
+Added Pin To Net: NetName=NetLED21_1 Pin=LED22-2
+Added Net: Name=NetLED21_1
+Added Pin To Net: NetName=NetLED22_1 Pin=LED22-1
+Added Pin To Net: NetName=NetLED22_1 Pin=R6-2
+Added Net: Name=NetLED22_1
+Added Pin To Net: NetName=NetLED23_1 Pin=LED23-1
+Added Pin To Net: NetName=NetLED23_1 Pin=LED24-2
+Added Net: Name=NetLED23_1
+Added Pin To Net: NetName=NetLED24_1 Pin=LED24-1
+Added Pin To Net: NetName=NetLED24_1 Pin=R22-2
+Added Net: Name=NetLED24_1
+Added Pin To Net: NetName=NetLED25_1 Pin=LED25-1
+Added Pin To Net: NetName=NetLED25_1 Pin=LED26-2
+Added Net: Name=NetLED25_1
+Added Pin To Net: NetName=NetLED26_1 Pin=LED26-1
+Added Pin To Net: NetName=NetLED26_1 Pin=R7-2
+Added Net: Name=NetLED26_1
+Added Pin To Net: NetName=NetLED27_1 Pin=LED27-1
+Added Pin To Net: NetName=NetLED27_1 Pin=LED28-2
+Added Net: Name=NetLED27_1
+Added Pin To Net: NetName=NetLED28_1 Pin=LED28-1
+Added Pin To Net: NetName=NetLED28_1 Pin=R23-2
+Added Net: Name=NetLED28_1
+Added Pin To Net: NetName=NetLED29_1 Pin=LED29-1
+Added Pin To Net: NetName=NetLED29_1 Pin=LED30-2
+Added Net: Name=NetLED29_1
+Added Pin To Net: NetName=NetLED30_1 Pin=LED30-1
+Added Pin To Net: NetName=NetLED30_1 Pin=R8-2
+Added Net: Name=NetLED30_1
+Added Pin To Net: NetName=NetLED31_1 Pin=LED31-1
+Added Pin To Net: NetName=NetLED31_1 Pin=LED32-2
+Added Net: Name=NetLED31_1
+Added Pin To Net: NetName=NetLED32_1 Pin=LED32-1
+Added Pin To Net: NetName=NetLED32_1 Pin=R24-2
+Added Net: Name=NetLED32_1
+Added Pin To Net: NetName=NetLED33_1 Pin=LED33-1
+Added Pin To Net: NetName=NetLED33_1 Pin=LED34-2
+Added Net: Name=NetLED33_1
+Added Pin To Net: NetName=NetLED34_1 Pin=LED34-1
+Added Pin To Net: NetName=NetLED34_1 Pin=R9-2
+Added Net: Name=NetLED34_1
+Added Pin To Net: NetName=NetLED35_1 Pin=LED35-1
+Added Pin To Net: NetName=NetLED35_1 Pin=LED36-2
+Added Net: Name=NetLED35_1
+Added Pin To Net: NetName=NetLED36_1 Pin=LED36-1
+Added Pin To Net: NetName=NetLED36_1 Pin=R25-2
+Added Net: Name=NetLED36_1
+Added Pin To Net: NetName=NetLED37_1 Pin=LED37-1
+Added Pin To Net: NetName=NetLED37_1 Pin=LED38-2
+Added Net: Name=NetLED37_1
+Added Pin To Net: NetName=NetLED38_1 Pin=LED38-1
+Added Pin To Net: NetName=NetLED38_1 Pin=R10-2
+Added Net: Name=NetLED38_1
+Added Pin To Net: NetName=NetLED39_1 Pin=LED39-1
+Added Pin To Net: NetName=NetLED39_1 Pin=LED40-2
+Added Net: Name=NetLED39_1
+Added Pin To Net: NetName=NetLED40_1 Pin=LED40-1
+Added Pin To Net: NetName=NetLED40_1 Pin=R26-2
+Added Net: Name=NetLED40_1
+Added Pin To Net: NetName=NetLED41_1 Pin=LED41-1
+Added Pin To Net: NetName=NetLED41_1 Pin=LED42-2
+Added Net: Name=NetLED41_1
+Added Pin To Net: NetName=NetLED42_1 Pin=LED42-1
+Added Pin To Net: NetName=NetLED42_1 Pin=R11-2
+Added Net: Name=NetLED42_1
+Added Pin To Net: NetName=NetLED43_1 Pin=LED43-1
+Added Pin To Net: NetName=NetLED43_1 Pin=LED44-2
+Added Net: Name=NetLED43_1
+Added Pin To Net: NetName=NetLED44_1 Pin=LED44-1
+Added Pin To Net: NetName=NetLED44_1 Pin=R27-2
+Added Net: Name=NetLED44_1
+Added Pin To Net: NetName=NetLED45_1 Pin=LED45-1
+Added Pin To Net: NetName=NetLED45_1 Pin=LED46-2
+Added Net: Name=NetLED45_1
+Added Pin To Net: NetName=NetLED46_1 Pin=LED46-1
+Added Pin To Net: NetName=NetLED46_1 Pin=R12-2
+Added Net: Name=NetLED46_1
+Added Pin To Net: NetName=NetLED47_1 Pin=LED47-1
+Added Pin To Net: NetName=NetLED47_1 Pin=LED48-2
+Added Net: Name=NetLED47_1
+Added Pin To Net: NetName=NetLED48_1 Pin=LED48-1
+Added Pin To Net: NetName=NetLED48_1 Pin=R28-2
+Added Net: Name=NetLED48_1
+Added Pin To Net: NetName=NetLED49_1 Pin=LED49-1
+Added Pin To Net: NetName=NetLED49_1 Pin=LED50-2
+Added Net: Name=NetLED49_1
+Added Pin To Net: NetName=NetLED50_1 Pin=LED50-1
+Added Pin To Net: NetName=NetLED50_1 Pin=R13-2
+Added Net: Name=NetLED50_1
+Added Pin To Net: NetName=NetLED51_1 Pin=LED51-1
+Added Pin To Net: NetName=NetLED51_1 Pin=LED52-2
+Added Net: Name=NetLED51_1
+Added Pin To Net: NetName=NetLED52_1 Pin=LED52-1
+Added Pin To Net: NetName=NetLED52_1 Pin=R29-2
+Added Net: Name=NetLED52_1
+Added Pin To Net: NetName=NetLED53_1 Pin=LED53-1
+Added Pin To Net: NetName=NetLED53_1 Pin=LED54-2
+Added Net: Name=NetLED53_1
+Added Pin To Net: NetName=NetLED54_1 Pin=LED54-1
+Added Pin To Net: NetName=NetLED54_1 Pin=R14-2
+Added Net: Name=NetLED54_1
+Added Pin To Net: NetName=NetLED55_1 Pin=LED55-1
+Added Pin To Net: NetName=NetLED55_1 Pin=LED56-2
+Added Net: Name=NetLED55_1
+Added Pin To Net: NetName=NetLED56_1 Pin=LED56-1
+Added Pin To Net: NetName=NetLED56_1 Pin=R30-2
+Added Net: Name=NetLED56_1
+Added Pin To Net: NetName=NetLED57_1 Pin=LED57-1
+Added Pin To Net: NetName=NetLED57_1 Pin=LED58-2
+Added Net: Name=NetLED57_1
+Added Pin To Net: NetName=NetLED58_1 Pin=LED58-1
+Added Pin To Net: NetName=NetLED58_1 Pin=R15-2
+Added Net: Name=NetLED58_1
+Added Pin To Net: NetName=NetLED59_1 Pin=LED59-1
+Added Pin To Net: NetName=NetLED59_1 Pin=LED60-2
+Added Net: Name=NetLED59_1
+Added Pin To Net: NetName=NetLED60_1 Pin=LED60-1
+Added Pin To Net: NetName=NetLED60_1 Pin=R31-2
+Added Net: Name=NetLED60_1
+Added Pin To Net: NetName=NetLED61_1 Pin=LED61-1
+Added Pin To Net: NetName=NetLED61_1 Pin=LED62-2
+Added Net: Name=NetLED61_1
+Added Pin To Net: NetName=NetLED62_1 Pin=LED62-1
+Added Pin To Net: NetName=NetLED62_1 Pin=R16-2
+Added Net: Name=NetLED62_1
+Added Pin To Net: NetName=NetLED63_1 Pin=LED63-1
+Added Pin To Net: NetName=NetLED63_1 Pin=LED64-2
+Added Net: Name=NetLED63_1
+Added Pin To Net: NetName=NetLED64_1 Pin=LED64-1
+Added Pin To Net: NetName=NetLED64_1 Pin=R32-2
+Added Net: Name=NetLED64_1
+Added Pin To Net: NetName=NetLED65_1 Pin=LED65-1
+Added Pin To Net: NetName=NetLED65_1 Pin=LED66-2
+Added Net: Name=NetLED65_1
+Added Pin To Net: NetName=NetLED66_1 Pin=LED66-1
+Added Pin To Net: NetName=NetLED66_1 Pin=R33-2
+Added Net: Name=NetLED66_1
+Added Pin To Net: NetName=NetLED67_1 Pin=LED67-1
+Added Pin To Net: NetName=NetLED67_1 Pin=LED68-2
+Added Net: Name=NetLED67_1
+Added Pin To Net: NetName=NetLED68_1 Pin=LED68-1
+Added Pin To Net: NetName=NetLED68_1 Pin=R34-2
+Added Net: Name=NetLED68_1
+Added Pin To Net: NetName=NetLED69_1 Pin=LED69-1
+Added Pin To Net: NetName=NetLED69_1 Pin=LED70-2
+Added Net: Name=NetLED69_1
+Added Pin To Net: NetName=NetLED70_1 Pin=LED70-1
+Added Pin To Net: NetName=NetLED70_1 Pin=R35-2
+Added Net: Name=NetLED70_1
+Added Pin To Net: NetName=NetLED71_1 Pin=LED71-1
+Added Pin To Net: NetName=NetLED71_1 Pin=LED72-2
+Added Net: Name=NetLED71_1
+Added Pin To Net: NetName=NetLED72_1 Pin=LED72-1
+Added Pin To Net: NetName=NetLED72_1 Pin=R36-2
+Added Net: Name=NetLED72_1
+Added Pin To Net: NetName=VCC_5V Pin=LED1-2
+Added Pin To Net: NetName=VCC_5V Pin=LED3-2
+Added Pin To Net: NetName=VCC_5V Pin=LED5-2
+Added Pin To Net: NetName=VCC_5V Pin=LED7-2
+Added Pin To Net: NetName=VCC_5V Pin=LED9-2
+Added Pin To Net: NetName=VCC_5V Pin=LED11-2
+Added Pin To Net: NetName=VCC_5V Pin=LED13-2
+Added Pin To Net: NetName=VCC_5V Pin=LED15-2
+Added Pin To Net: NetName=VCC_5V Pin=LED17-2
+Added Pin To Net: NetName=VCC_5V Pin=LED19-2
+Added Pin To Net: NetName=VCC_5V Pin=LED21-2
+Added Pin To Net: NetName=VCC_5V Pin=LED23-2
+Added Pin To Net: NetName=VCC_5V Pin=LED25-2
+Added Pin To Net: NetName=VCC_5V Pin=LED27-2
+Added Pin To Net: NetName=VCC_5V Pin=LED29-2
+Added Pin To Net: NetName=VCC_5V Pin=LED31-2
+Added Pin To Net: NetName=VCC_5V Pin=LED33-2
+Added Pin To Net: NetName=VCC_5V Pin=LED35-2
+Added Pin To Net: NetName=VCC_5V Pin=LED37-2
+Added Pin To Net: NetName=VCC_5V Pin=LED39-2
+Added Pin To Net: NetName=VCC_5V Pin=LED41-2
+Added Pin To Net: NetName=VCC_5V Pin=LED43-2
+Added Pin To Net: NetName=VCC_5V Pin=LED45-2
+Added Pin To Net: NetName=VCC_5V Pin=LED47-2
+Added Pin To Net: NetName=VCC_5V Pin=LED49-2
+Added Pin To Net: NetName=VCC_5V Pin=LED51-2
+Added Pin To Net: NetName=VCC_5V Pin=LED53-2
+Added Pin To Net: NetName=VCC_5V Pin=LED55-2
+Added Pin To Net: NetName=VCC_5V Pin=LED57-2
+Added Pin To Net: NetName=VCC_5V Pin=LED59-2
+Added Pin To Net: NetName=VCC_5V Pin=LED61-2
+Added Pin To Net: NetName=VCC_5V Pin=LED63-2
+Added Pin To Net: NetName=VCC_5V Pin=LED65-2
+Added Pin To Net: NetName=VCC_5V Pin=LED67-2
+Added Pin To Net: NetName=VCC_5V Pin=LED69-2
+Added Pin To Net: NetName=VCC_5V Pin=LED71-2
+Added Net: Name=VCC_5V
+Added Class: Name=LED_Section

@@ -1,11 +1,25 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [Francisco Gimenez.PrjPCB]
-   Generated File[Pick Place for HCD_PCB.txt]
-   Generated File[Pick Place for HCD_PCB.csv]
+   Generated File[HCD_PCB.GTO]
+   Generated File[HCD_PCB.GTP]
+   Generated File[HCD_PCB.GTS]
+   Generated File[HCD_PCB.GTL]
+   Generated File[HCD_PCB.GBL]
+   Generated File[HCD_PCB.GBS]
+   Generated File[HCD_PCB.GBP]
+   Generated File[HCD_PCB.GBO]
+   Generated File[HCD_PCB.GM2]
+   Generated File[HCD_PCB.GPT]
+   Generated File[HCD_PCB.GPB]
+   Generated File[HCD_PCB.GD1]
+   Generated File[HCD_PCB.GG1]
+   Generated File[HCD_PCB.RUL]
+   Generated File[HCD_PCB.EXTREP]
+   Generated File[HCD_PCB.REP]
 
 
-Files Generated   : 2
+Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 11:43:48 AM On 4/24/2021
+Finished Output Generation At 12:37:51 PM On 2/3/2022

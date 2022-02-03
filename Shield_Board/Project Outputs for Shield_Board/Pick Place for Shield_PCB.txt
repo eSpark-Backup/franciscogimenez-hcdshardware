@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+E:\Git\FranciscoGimenez-HCDSHardware\Shield_Board\Project Outputs for Shield_Board\Pick Place for Shield_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/02/22
+Time:       13:30
+Revision:   10082c430b4b66cc19f62c6b4d7336d5d8592b90
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                     
+J9         HDR_M_1X7             TopLayer    HDR_M_1X7             2501.235      1581.000      90       "7 POS 2.54mm Board Spacer Pin"                                                                 
+J10        HDR_M_1X7             TopLayer    HDR_M_1X7             2501.235      2433.000      90       "7 POS 2.54mm Board Spacer Pin"                                                                 
+J4         HDR_M_1X4             BottomLayer HDR_M_1X4             709.426       3205.181      180      "4 POS 2.54mm spacer header"                                                                    
+J11        HDR_M_1X3             BottomLayer HDR_M_1X3             -5.332        1768.000      270      "3 POS 2.54mm spacer header"                                                                    
+J8         HDR_M_1X3             BottomLayer HDR_M_1X3             -5.328        998.000       270      "3 POS 2.54mm spacer header"                                                                    
+J7         HDR_M_1X3             BottomLayer HDR_M_1X3             -5.332        2177.000      270      "3 POS 2.54mm spacer header"                                                                    
+J6         HDR_M_1X3             BottomLayer HDR_M_1X3             -6.332        2583.000      90       "3 POS 2.54mm spacer header"                                                                    
+J5         HDR_M_1X3             BottomLayer HDR_M_1X3             351.592       4.840         360      "3 POS 2.54mm spacer header"                                                                    
+J3         X2026WV-2x06A-N0SN    TopLayer    X2026WV-2x06A-N0SN    1260.630      492.851       90       "2x6P 2 2mm 2mm 6 Brass Plugin,P=2mm Wire To Board / Wire To Wire Connector ROHS"               
+J2         PHD-2*7A              TopLayer    PHD-2*7A              1260.630      2694.780      90       "2x7P 2 PHD 2mm 2mm 7 Phosphor bronze Plugin,P=2mm Wire To Board / Wire To Wire Connector ROHS" 
+J1         B09B-XASK-1-A(LF)(SN) TopLayer    B09B-XASK-1-A(LF)(SN) 1292.500      1559.504      270      "CONN HEADER VERT 9POS 2.5MM"                                                                   

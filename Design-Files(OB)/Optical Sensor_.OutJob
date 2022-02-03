@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Waqar\Desktop\Francisco\Design Files\.PDF
+OutputFilePath2=E:\Git\FranciscoGimenez-HCDSHardware\Design-Files(OB)\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Waqar\Desktop\Francisco\Design Files\
+OutputBasePath2=E:\Git\FranciscoGimenez-HCDSHardware\Design-Files(OB)\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Waqar\Desktop\Francisco\Design Files\.PDF
+RelativeOutputPath2=E:\Git\FranciscoGimenez-HCDSHardware\Design-Files(OB)\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

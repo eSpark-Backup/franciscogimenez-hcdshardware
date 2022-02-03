@@ -2,10 +2,31 @@
 FileName = Optical_Sensor.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Solder
-      File : Optical_Sensor.GTS
+Generating : Mechanical 2
+      File : Optical_Sensor.GM2
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Optical_Sensor.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Optical_Sensor.GPT
 
     Adding Layer      : Top Layer
 
@@ -13,8 +34,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D12
-    D13
+    D15
+    D16
+    D17
 *************************************************************
 
 *************************************************************
@@ -29,6 +51,20 @@ Generating : Drill Drawing
 Used DCodes :
     D25
     D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Optical_Sensor.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D22
+    D23
+    D24
 *************************************************************
 
 *************************************************************
@@ -49,21 +85,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Optical_Sensor.GBS
+Generating : Top Paste
+      File : Optical_Sensor.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D13
-    D20
-    D21
 *************************************************************
 
 *************************************************************
@@ -99,17 +131,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 2
-      File : Optical_Sensor.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : Optical_Sensor.GBL
 
@@ -129,8 +150,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : Optical_Sensor.GPT
+Generating : Top Solder
+      File : Optical_Sensor.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -138,48 +161,25 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D15
-    D16
-    D17
+    D12
+    D13
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Optical_Sensor.GTO
+Generating : Bottom Solder
+      File : Optical_Sensor.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
 
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Optical_Sensor.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Optical_Sensor.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D12
+    D13
+    D20
+    D21
 *************************************************************
 

@@ -1,10 +1,25 @@
-Output: Report Board Stack
-Type  : Report Board Stack
-From  : Project [Francisco Gimenez.PrjPCB]
-   Generated File[HCD_PCB.xls]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Francisco Gimenez.PrjPCB]
+   Generated File[HCD_PCB.GTO]
+   Generated File[HCD_PCB.GTP]
+   Generated File[HCD_PCB.GTS]
+   Generated File[HCD_PCB.GTL]
+   Generated File[HCD_PCB.GBL]
+   Generated File[HCD_PCB.GBS]
+   Generated File[HCD_PCB.GBP]
+   Generated File[HCD_PCB.GBO]
+   Generated File[HCD_PCB.GM2]
+   Generated File[HCD_PCB.GPT]
+   Generated File[HCD_PCB.GPB]
+   Generated File[HCD_PCB.GD1]
+   Generated File[HCD_PCB.GG1]
+   Generated File[HCD_PCB.RUL]
+   Generated File[HCD_PCB.EXTREP]
+   Generated File[HCD_PCB.REP]
 
 
-Files Generated   : 1
+Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 12:54:43 PM On 12/17/2021
+Finished Output Generation At 12:37:51 PM On 2/3/2022

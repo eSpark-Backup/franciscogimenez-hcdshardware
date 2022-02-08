@@ -395,102 +395,74 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Francisco Gimenez\Design Rule Check - HCD_PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Francisco Gimenez\Francisco Gimenez.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Francisco Gimenez\HCD_PCB.xls
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Francisco Gimenez\Pick Place for HCD_PCB.csv
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Francisco Gimenez\Pick Place for HCD_PCB.txt
 DItemRevisionGUID=
 
@@ -518,7 +490,7 @@ ConfigurationType=Source
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
-AutoOpenOutJob=-1
+AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
 ProjectMode=-1
@@ -545,12 +517,12 @@ SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=-1
 SCH_VariantName=[No Variations]
 SCH_ExpandComponentDesignators=-1
-SCH_ExpandNetlabels=0
-SCH_ExpandPorts=0
-SCH_ExpandSheetNumber=0
-SCH_ExpandDocumentNumber=0
+SCH_ExpandNetlabels=-1
+SCH_ExpandPorts=-1
+SCH_ExpandSheetNumber=-1
+SCH_ExpandDocumentNumber=-1
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
 
 [Generic_EDE]
 OutputDir=Project Outputs for Francisco Gimenez
@@ -660,42 +632,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=AnyDesk Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs

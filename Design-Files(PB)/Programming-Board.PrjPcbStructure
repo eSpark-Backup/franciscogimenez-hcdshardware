@@ -1,3 +1,3 @@
-Record=TopLevelDocument|FileName=Top Sheet.SchDoc
-Record=SheetSymbol|SourceDocument=Top Sheet.SchDoc|Designator=U_Connector Section|SchDesignator=U_Connector Section|FileName=Connector Section.SchDoc|SymbolType=Normal|RawFileName=Connector Section.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Top Sheet.SchDoc|Designator=U_USB-UART Section|SchDesignator=U_USB-UART Section|FileName=USB-UART Section.SchDoc|SymbolType=Normal|RawFileName=USB-UART Section.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Top Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top Sheet.SchDoc|Designator=U_Connector Section|SchDesignator=U_Connector Section|FileName=Connector Section.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Connector Section.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Sheet.SchDoc|Designator=U_USB-UART Section|SchDesignator=U_USB-UART Section|FileName=USB-UART Section.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=USB-UART Section.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

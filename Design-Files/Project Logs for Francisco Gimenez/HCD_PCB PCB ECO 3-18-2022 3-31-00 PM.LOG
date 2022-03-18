@@ -1,0 +1,57 @@
+Added Component: Designator=J17(HDR_F_1X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT-23-5)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/pdf/sdyu001?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/pdf/sdyu001?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Buffer,Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV1T34DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Input Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Inputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Output Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.43, 10=0.349, 25=0.3192, 100=0.2374, 250=0.2152, 500=0.17808, 1000=0.13356 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "15.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "1uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "37360"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-37176-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000353oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J17-3
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=VCC_5V Pin=U11-5
+Added Pin To Net: NetName=#RGB3 Pin=U1-28
+Added Pin To Net: NetName=#RGB3 Pin=U11-2
+Added Net: Name=#RGB3
+Added Pin To Net: NetName=LED_0 Pin=J17-2
+Added Pin To Net: NetName=LED_0 Pin=U11-4
+Added Net: Name=LED_0
+Added Member To Class: ClassName=U_Sensor_Section Member=Component J17 HDR_F_1X3
+Added Member To Class: ClassName=U_Sensor_Section Member=Component U11 SN74LV1T34DBVR

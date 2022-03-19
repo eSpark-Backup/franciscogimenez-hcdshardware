@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J1 Old Footprint=HDR_M_1X4 New Footprint=HDR_M_1X5
+Change Component Comment : Designator=J1 Old Comment=HDR_M_1X4 New Comment=HDR_F_1X5
+Change component parameters: Designator = "J1" ("J1"); Footprint = "HDR_M_1X4"; UniqueID = "\ZYBRGRLE" ("\ZYBRGRLE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XFCN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part no"; Value = "PZ254V-11-05P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Net: Name=GND

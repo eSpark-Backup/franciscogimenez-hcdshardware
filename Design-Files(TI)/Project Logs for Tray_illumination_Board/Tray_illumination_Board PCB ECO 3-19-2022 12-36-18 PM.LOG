@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=W_LED3 Pin=J1-2
+Removed Pin From Net: NetName=W_LED2 Pin=J1-3
+Removed Pin From Net: NetName=W_LED1 Pin=J1-4
+Added Component: Designator=J1(HDR_M_1X4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=W_LED3 Pin=J1-2
+Added Pin To Net: NetName=W_LED2 Pin=J1-3
+Added Pin To Net: NetName=W_LED1 Pin=J1-4

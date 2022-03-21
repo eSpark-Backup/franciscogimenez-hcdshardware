@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J1-5
+Change Component Footprint: Designator=J1 Old Footprint=HDR_M_1X5 New Footprint=HDR_M_1X2
+Change Component Comment : Designator=J1 Old Comment=HDR_F_1X5 New Comment=HDR_M_1X2
+Change component parameters: Designator = "J1" ("J1"); Footprint = "HDR_M_1X5"; UniqueID = "\XCGXNYJM" ("\XCGXNYJM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2

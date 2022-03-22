@@ -4,125 +4,128 @@ E:\Git\FranciscoGimenez-HCDSHardware\Design-Files\Project Outputs for Francisco 
 ========================================================================================================================
 File Design Information:
 
-Date:       03/02/22
-Time:       12:27
-Revision:   10082c430b4b66cc19f62c6b4d7336d5d8592b90
+Date:       22/03/22
+Time:       17:50
+Revision:   5a3331f17a2d0dbea4229f774498c06b55604b64
 Variant:    No variations
 Units used: mil
 
-Designator Comment                  Layer       Footprint            Center-X(mil) Center-Y(mil) Rotation Description                                                                 Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
-J15        HDR_F_1X7                TopLayer    HDR_F_1X7            2501,235mil   2433,000mil   90       "7 POS 2.54mm female header"                                                2501,235mil 2133,000mil 2501,235mil 2133,000mil 
-U1         ESP32-WROOM-32E(4MB)     TopLayer    ESP32-WROOM-32E(4MB) 1936,512mil   2904,394mil   0        "RX TXRX MOD WIFI TRACE ANT SMD"                                            1936,512mil 2904,394mil 1592,023mil 3254,000mil 
-J20        HDR_F_1X3                TopLayer    HDR_F_1X3            -5,332mil     1768,000mil   270      "3 POS 2.54mm female header"                                                -5,332mil   1868,000mil -5,332mil   1868,000mil 
-J29        HDR_F_1X2                TopLayer    HDR_F_1X2            -5,328mil     284,534mil    90       "2 POS 2.54mm female header"                                                -5,328mil   284,534mil  -5,328mil   234,534mil  
-J28        HDR_F_1X2                TopLayer    HDR_F_1X2            -2,332mil     2894,827mil   90       "2 POS 2.54mm female header"                                                -2,332mil   2894,827mil -2,332mil   2844,827mil 
-J25        HDR_F_1X2                TopLayer    HDR_F_1X2            -5,328mil     1391,000mil   90       "2 POS 2.54mm female header"                                                -5,328mil   1391,000mil -5,328mil   1341,000mil 
-J24        HDR_F_1X2                TopLayer    HDR_F_1X2            -5,328mil     620,000mil    90       "2 POS 2.54mm female header"                                                -5,328mil   620,000mil  -5,328mil   570,000mil  
-J3         HDR_F_1X2                TopLayer    HDR_F_1X2            1206,245mil   0,933mil      180      "2 POS 2.54mm female header"                                                1206,245mil 0,933mil    1256,245mil 0,933mil    
-J10        HDR_F_1X3                TopLayer    HDR_F_1X3            -5,328mil     998,000mil    270      "3 POS 2.54mm female header"                                                -5,328mil   1098,000mil -5,328mil   1098,000mil 
-J30        HDR_F_1X3                TopLayer    HDR_F_1X3            819,660mil    4,840mil      360      "3 POS 2.54mm female header"                                                719,660mil  4,840mil    719,660mil  4,840mil    
-J14        HDR_F_1X7                TopLayer    HDR_F_1X7            2501,235mil   721,000mil    90       "7 POS 2.54mm female header"                                                2501,235mil 421,000mil  2501,235mil 421,000mil  
-J4         HDR_F_1X4                TopLayer    HDR_F_1X4            2120,575mil   5,507mil      360      "4 POS 2.54mm female header"                                                1971,575mil 7,507mil    1970,575mil 5,507mil    
-J13        HDR_F_1X3                TopLayer    HDR_F_1X3            -6,332mil     2583,000mil   90       "3 POS 2.54mm female header"                                                -6,332mil   2483,000mil -6,332mil   2483,000mil 
-J12        HDR_F_1X3                TopLayer    HDR_F_1X3            -5,332mil     2177,000mil   270      "3 POS 2.54mm female header"                                                -5,332mil   2277,000mil -5,332mil   2277,000mil 
-J11        HDR_F_1X3                TopLayer    HDR_F_1X3            351,592mil    4,840mil      360      "3 POS 2.54mm female header"                                                251,592mil  4,840mil    251,592mil  4,840mil    
-J2         HDR_F_1X4                TopLayer    HDR_F_1X4            709,426mil    3205,181mil   180      "4 POS 2.54mm female header"                                                858,426mil  3203,181mil 859,426mil  3205,181mil 
-J1         HDR_F_1X7                TopLayer    HDR_F_1X7            2501,235mil   1581,000mil   90       "7 POS 2.54mm female header"                                                2501,235mil 1281,000mil 2501,235mil 1281,000mil 
-L3         3.3uH                    TopLayer    74437368033          1696,720mil   1991,686mil   360      "FIXED IND 3.3UH 8A 11.8 MOHM SMD"                                          1696,720mil 1991,686mil 1509,713mil 1991,686mil 
-C#2        22uF                     TopLayer    Cap0805              1408,687mil   1784,402mil   180      "CAP CER 22UF 35V X5R 0805"                                                 1408,687mil 1784,402mil 1448,687mil 1784,402mil 
-C#1        22uF                     TopLayer    Cap0805              1408,687mil   1862,079mil   180      "CAP CER 22UF 35V X5R 0805"                                                 1408,687mil 1862,079mil 1448,687mil 1862,079mil 
-C38        470uF                    TopLayer    UCD1E471MNL1GS       663,000mil    1340,000mil   90       "CAP ALUM 470UF 20% 25V SMD"                                                663,000mil  1340,000mil 663,000mil  1190,394mil 
-R28        453K                     TopLayer    RES-0603             957,906mil    868,000mil    360      "Res Thick Film 0603 453K Ohm 1% 1/10W ±100ppm/°C Molded SMD Paper T/R"     957,906mil  868,000mil  927,906mil  868,000mil  
-U13        LT3652EDD#PBF            TopLayer    LT3652EDD#PBF        976,118mil    992,859mil    0        "Battery Charger Li-Ion 2000mA 4.2V Automotive 12-Pin DFN EP"               976,118mil  992,859mil  921,000mil  1037,150mil 
-R30        5.1K                     BottomLayer RES-0603             796,000mil    872,000mil    180      "RES 5.1K OHM 1% 1/10W 0603"                                                796,000mil  872,000mil  826,000mil  872,000mil  
-R29        5.1K                     BottomLayer RES-0603             824,000mil    954,000mil    90       "RES 5.1K OHM 1% 1/10W 0603"                                                824,000mil  954,000mil  824,000mil  924,000mil  
-R27        536K                     TopLayer    RES-0603             1065,605mil   868,000mil    180      "RES SMD 536K OHM 1% 1/10W 0603"                                            1065,605mil 868,000mil  1095,605mil 868,000mil  
-R26        0.05R                    BottomLayer RES_2010             1206,480mil   936,481mil    180      "RES 0.05 OHM 1% 1/2W 2010"                                                 1206,480mil 936,481mil  1299,000mil 936,481mil  
-R6         100K                     BottomLayer RES-0603             980,000mil    1060,000mil   270      "RES SMD 100K OHM 5% 1/5W 0603"                                             980,000mil  1060,000mil 980,000mil  1090,000mil 
-R5         301k                     BottomLayer RES-0603             927,000mil    1061,000mil   270      "RES SMD 301K OHM 1% 1/10W 0603"                                            927,000mil  1061,000mil 927,000mil  1091,000mil 
-L2         10uH                     TopLayer    SLF10145T-100M2R5-PF 1276,000mil   1362,512mil   180      "FIXED IND 10UH 2.5A 43.7 MOHM"                                             1276,000mil 1362,512mil 1435,449mil 1362,512mil 
-LED5       XZVG68W-2                TopLayer    LED_0402             519,000mil    966,284mil    270      "LED GREEN CLEAR CHIP SMD"                                                  519,000mil  966,284mil  519,000mil  984,784mil  
-LED4       XZVG68W-2                TopLayer    LED_0402             562,000mil    966,284mil    270      "LED GREEN CLEAR CHIP SMD"                                                  562,000mil  966,284mil  562,000mil  984,784mil  
-D3         S1A-13-F                 TopLayer    SMA                  1306,000mil   970,000mil    270      "Diode Switching 50V 1A 2-Pin SMA T/R"                                      1306,000mil 970,000mil  1306,000mil 1048,740mil 
-D2         "CMSH3-40MA TR13 PBFREE" TopLayer    DO-214AC             1031,236mil   1643,000mil   180      "DIODE SCHOTTKY 40V 3A SMA"                                                 1031,236mil 1643,000mil 1119,819mil 1643,000mil 
-D1         "CMSH3-40MA TR13 PBFREE" TopLayer    DO-214AC             957,000mil    1280,000mil   90       "DIODE SCHOTTKY 40V 3A SMA"                                                 957,000mil  1280,000mil 957,000mil  1191,417mil 
-C39        1uF                      BottomLayer CAP-0603             1030,000mil   986,000mil    90       "CAP CER 1UF 25V X5R 0603"                                                  1030,000mil 986,000mil  1030,000mil 956,000mil  
-C37        470uF                    TopLayer    UCD1E471MNL1GS       1661,394mil   889,426mil    360      "CAP ALUM 470UF 20% 25V SMD"                                                1661,394mil 889,426mil  1511,787mil 889,426mil  
-C36        0.1uF                    TopLayer    CAP-0603             1151,000mil   948,000mil    90       "CAP CER 0.1UF 50V X7R 0603"                                                1151,000mil 948,000mil  1151,000mil 918,000mil  
-C35        10uF                     TopLayer    CAP-0603             1098,000mil   948,000mil    90       "CAP CER 10UF 25V X5R 0603"                                                 1098,000mil 948,000mil  1098,000mil 918,000mil  
-C34        4.7uF                    TopLayer    CAP-0603             669,000mil    955,000mil    270      "CAP CER 4.7UF 25V X5R 0603"                                                669,000mil  955,000mil  669,000mil  985,000mil  
-C33        4.7uF                    TopLayer    CAP-0603             719,667mil    955,000mil    270      "CAP CER 4.7UF 25V X5R 0603"                                                719,667mil  955,000mil  719,667mil  985,000mil  
-C32        0.1uF                    TopLayer    CAP-0603             770,333mil    955,000mil    270      "CAP CER 0.1UF 50V X7R 0603"                                                770,333mil  955,000mil  770,333mil  985,000mil  
-C31        10uF                     TopLayer    CAP-0603             821,000mil    955,000mil    270      "CAP CER 10UF 25V X5R 0603"                                                 821,000mil  955,000mil  821,000mil  985,000mil  
-LED3       LTST-C171KGKT            TopLayer    LED_0805             561,000mil    2100,000mil   270      "LED GREEN 574nm 2-Pin Chip 0805 SMD"                                       561,000mil  2100,000mil 561,000mil  2140,000mil 
-C5         2.2uF                    TopLayer    CAP-0603             640,000mil    2103,000mil   270      "CAP CER 2.2UF 25V X5R 0603"                                                640,000mil  2103,000mil 640,000mil  2133,000mil 
-C7         10uF                     TopLayer    CAP-0603             1351,000mil   2140,250mil   180      "CAP CER 10UF 25V X5R 0603"                                                 1351,000mil 2140,250mil 1381,000mil 2140,250mil 
-R16        1K                       BottomLayer RES-0603             572,173mil    2140,250mil   360      "RES SMD 1K OHM 1% 1/10W 0603"                                              572,173mil  2140,250mil 542,173mil  2140,250mil 
-R15        100R                     BottomLayer RES-0603             1354,000mil   3172,000mil   90       "RES SMD 100 OHM 1% 1/4W 0603"                                              1354,000mil 3172,000mil 1354,000mil 3142,000mil 
-R14        470K                     BottomLayer RES-0603             1752,000mil   1630,000mil   270      "RES SMD 470K OHM 5% 1/10W 0603"                                            1752,000mil 1630,000mil 1752,000mil 1660,000mil 
-R13        10K                      BottomLayer RES-0603             1276,000mil   1961,000mil   270      "RES SMD 10K OHM 5% 1/5W 0603"                                              1276,000mil 1961,000mil 1276,000mil 1991,000mil 
-R12        10K                      TopLayer    RES-0603             1190,000mil   1998,399mil   90       "RES SMD 10K OHM 5% 1/5W 0603"                                              1190,000mil 1998,399mil 1190,000mil 1968,399mil 
-R11        10K                      TopLayer    RES-0603             1227,000mil   3266,000mil   360      "RES SMD 10K OHM 5% 1/5W 0603"                                              1227,000mil 3266,000mil 1197,000mil 3266,000mil 
-R10        100R                     TopLayer    RES-0603             1008,000mil   2368,000mil   360      "RES SMD 100 OHM 1% 1/4W 0603"                                              1008,000mil 2368,000mil 978,000mil  2368,000mil 
-R9         100R                     TopLayer    RES-0603             1008,000mil   2419,000mil   0        "RES SMD 100 OHM 1% 1/4W 0603"                                              1008,000mil 2419,000mil 978,000mil  2419,000mil 
-R7         8.2K                     TopLayer    RES-0603             1008,000mil   2508,000mil   0        "RES SMD 8.2K OHM 5% 1/4W 0603"                                             1008,000mil 2508,000mil 978,000mil  2508,000mil 
-R2         20K                      TopLayer    RES-0603             1008,000mil   2556,071mil   0        "RES SMD 20K OHM 1% 1/4W 0603"                                              1008,000mil 2556,071mil 978,000mil  2556,071mil 
-Q3         MMBT4403LT1G             TopLayer    sot-23               1002,000mil   2708,000mil   90       "TRANS PNP 40V 600MA SOT23-3"                                               1002,000mil 2708,000mil 1041,370mil 2670,598mil 
-P6         "Test Point"             TopLayer    Test_point           2243,709mil   1356,283mil   0        "Test Point ON"                                                             2243,709mil 1356,283mil 2243,709mil 1356,283mil 
-P5         "Test Point"             TopLayer    Test_point           2243,709mil   1645,525mil   0        "Test Point ON"                                                             2243,709mil 1645,525mil 2243,709mil 1645,525mil 
-LED2       17-21/BHC-XL2M2TY/3T     TopLayer    17-21/BHC-XL2M2TY/3T 1350,000mil   3226,000mil   270      "LED BLUE 0805 SMD"                                                         1350,000mil 3226,000mil 1350,000mil 3267,339mil 
-LED1       LTST-C170KSKT            TopLayer    LTST-C170KSKT        1426,000mil   3225,339mil   270      "Yellow 2 x 1.25 x 1.1 mm 130° Water Clear 112 mcd 1.8 V LED Surface Mount" 1426,000mil 3225,339mil 1426,000mil 3266,677mil 
-U2         LDF33DT-TR               TopLayer    LDF33DT-TR           803,000mil    2103,000mil   180      "IC REG LINEAR 3.3V 1A DPAK"                                                803,000mil  2103,000mil 893,000mil  2226,032mil 
-L1         3.3uH                    TopLayer    74437368033          659,425mil    2719,000mil   180      "FIXED IND 3.3UH 8A 11.8 MOHM SMD"                                          659,425mil  2719,000mil 846,433mil  2719,000mil 
-C42        1nF                      BottomLayer CAP-0603             1777,000mil   548,000mil    90       "CAP CER 1000PF 25V C0G/NPO 0603"                                           1777,000mil 548,000mil  1777,000mil 518,000mil  
-C41        1uF                      BottomLayer CAP-0603             1753,000mil   417,000mil    180      "CAP CER 1UF 25V X5R 0603"                                                  1753,000mil 417,000mil  1783,000mil 417,000mil  
-J16        2305018-2                TopLayer    2305018-2            1619,740mil   12,891mil     360      "CONN RCP USB3.1 TYPEC 24P SMD RA"                                          1619,740mil 12,891mil   1499,661mil 79,821mil   
-SB1        "Solder Bridge"          TopLayer    Solder_Bridge        1376,000mil   2640,000mil   270      "Solder Bridge ON"                                                          1376,000mil 2640,000mil 1376,000mil 2670,000mil 
-RF1        10K                      BottomLayer RES-0603             1242,000mil   2668,000mil   180      "RES SMD 10K OHM 5% 1/5W 0603"                                              1242,000mil 2668,000mil 1272,000mil 2668,000mil 
-CF3        0.1uF                    TopLayer    CAP-0603             1375,000mil   2752,000mil   90       "CAP CER 0.1UF 50V X7R 0603"                                                1375,000mil 2752,000mil 1375,000mil 2722,000mil 
-CF2        10uF                     TopLayer    CAP-0603             1125,000mil   2836,000mil   360      "CAP CER 10UF 25V X5R 0603"                                                 1125,000mil 2836,000mil 1095,000mil 2836,000mil 
-CF1        0.1uF                    TopLayer    CAP-0603             1125,000mil   2786,000mil   360      "CAP CER 0.1UF 50V X7R 0603"                                                1125,000mil 2786,000mil 1095,000mil 2786,000mil 
-C21        0.1uF                    BottomLayer CAP-0603             1180,000mil   2519,000mil   0        "CAP CER 0.1UF 50V X7R 0603"                                                1180,000mil 2519,000mil 1150,000mil 2519,000mil 
-C16        1uF                      TopLayer    CAP-0603             1696,720mil   1613,606mil   90       "CAP CER 1UF 25V X5R 0603"                                                  1696,720mil 1613,606mil 1696,720mil 1583,606mil 
-U6         HX711                    TopLayer    HX711                1208,000mil   2544,000mil   360      "LOAD CELL AMP HX711"                                                       1208,000mil 2544,000mil 1094,811mil 2719,000mil 
-U19        SN74LV1T34DBVR           BottomLayer SOT-23-5             253,803mil    1767,000mil   270      "IC BUF NON-INVERT 5.5V SOT23-5"                                            253,803mil  1767,000mil 216,401mil  1818,181mil 
-U17        BD48K50G-TL              TopLayer    SSOP-3               2006,977mil   557,000mil    270      "IC SUPERVISOR 1 CHANNEL 3SSOP"                                             2006,977mil 557,000mil  1957,764mil 594,402mil  
-U14        SI3865DDV-T1-GE3         TopLayer    6-TSOP               1730,232mil   518,410mil    0        "IC PWR SWITCH P-CHAN 1:1 6TSOP"                                            1730,232mil 518,410mil  1684,465mil 557,819mil  
-U4         LTC4412IS6#TRPBF         TopLayer    TSOT-23-6            1807,000mil   1622,000mil   180      "IC OR CTRLR SRC SELECT TSOT23-6"                                           1807,000mil 1622,000mil 1858,575mil 1584,598mil 
-R37        100K                     TopLayer    RES-0603             2029,000mil   468,000mil    180      "RES SMD 100K OHM 5% 1/5W 0603"                                             2029,000mil 468,000mil  2059,000mil 468,000mil  
-R36        100K                     BottomLayer RES-0603             1753,000mil   352,164mil    360      "RES SMD 100K OHM 5% 1/5W 0603"                                             1753,000mil 352,164mil  1723,000mil 352,164mil  
-R32        10K                      BottomLayer RES-0603             1671,858mil   587,819mil    90       "RES SMD 10K OHM 5% 1/5W 0603"                                              1671,858mil 587,819mil  1671,858mil 557,819mil  
-D6         SS54B-HF                 TopLayer    SMB                  1723,000mil   1332,000mil   180      "DIODE SCHOTTKY 5A 40V SMB"                                                 1723,000mil 1332,000mil 1813,551mil 1332,000mil 
-C54        1nF                      TopLayer    CAP-0603             1708,000mil   420,000mil    360      "CAP CER 1000PF 25V C0G/NPO 0603"                                           1708,000mil 420,000mil  1678,000mil 420,000mil  
-C53        0.1uF                    BottomLayer CAP-0603             1671,858mil   445,000mil    270      "CAP CER 0.1UF 50V X7R 0603"                                                1671,858mil 445,000mil  1671,858mil 475,000mil  
-C52        1uF                      BottomLayer CAP-0603             1617,858mil   445,000mil    270      "CAP CER 1UF 25V X5R 0603"                                                  1617,858mil 445,000mil  1617,858mil 475,000mil  
-C51        0.1uF                    TopLayer    CAP-0603             1828,000mil   513,457mil    90       "CAP CER 0.1UF 50V X7R 0603"                                                1828,000mil 513,457mil  1828,000mil 483,457mil  
-C50        1uF                      TopLayer    CAP-0603             1881,000mil   513,457mil    90       "CAP CER 1UF 25V X5R 0603"                                                  1881,000mil 513,457mil  1881,000mil 483,457mil  
-U8         SN74LV1T34DBVR           BottomLayer SOT-23-5             442,821mil    334,425mil    270      "IC BUF NON-INVERT 5.5V SOT23-5"                                            442,821mil  334,425mil  405,419mil  385,606mil  
-R78        5.1K                     BottomLayer RES-0603             1699,000mil   -33,392mil    90       "RES 5.1K OHM 1% 1/10W 0603"                                                1699,000mil -33,392mil  1699,000mil -63,392mil  
-R77        5.1K                     BottomLayer RES-0603             1540,528mil   59,455mil     360      "RES 5.1K OHM 1% 1/10W 0603"                                                1540,528mil 59,455mil   1510,528mil 59,455mil   
-R8         54.9K                    TopLayer    RES-0603             1140,000mil   1998,402mil   90       "RES SMD 54.9K OHM 1% 1/10W 0603"                                           1140,000mil 1998,402mil 1140,000mil 1968,402mil 
-R4         10K                      BottomLayer RES-0603             2097,000mil   2468,000mil   270      "RES SMD 10K OHM 5% 1/5W 0603"                                              2097,000mil 2468,000mil 2097,000mil 2498,000mil 
-R3         10K                      BottomLayer RES-0603             2303,000mil   2442,000mil   180      "RES SMD 10K OHM 5% 1/5W 0603"                                              2303,000mil 2442,000mil 2333,000mil 2442,000mil 
-R1         100R                     BottomLayer RES-0603             1455,000mil   3172,000mil   90       "RES SMD 100 OHM 1% 1/4W 0603"                                              1455,000mil 3172,000mil 1455,000mil 3142,000mil 
-Q4         FDN306P                  TopLayer    SuperSOT-3           1794,000mil   1487,000mil   180      "MOSFET P-CH 12V 2.6A SUPERSOT3"                                            1794,000mil 1487,000mil 1831,402mil 1532,079mil 
-U10        SN74LV1T34DBVR           TopLayer    SOT-23-5             290,787mil    3194,187mil   360      "IC BUF NON-INVERT 5.5V SOT23-5"                                            290,787mil  3194,187mil 239,606mil  3231,589mil 
-C17        0.1uF                    TopLayer    CAP-0603             1646,221mil   1613,606mil   90       "CAP CER 0.1UF 50V X7R 0603"                                                1646,221mil 1613,606mil 1646,221mil 1583,606mil 
-C15        0.1uF                    TopLayer    CAP-0603             1351,000mil   2085,500mil   180      "CAP CER 0.1UF 50V X7R 0603"                                                1351,000mil 2085,500mil 1381,000mil 2085,500mil 
-C14        0.1uF                    TopLayer    CAP-0603             1129,000mil   2307,000mil   180      "CAP CER 0.1UF 50V X7R 0603"                                                1129,000mil 2307,000mil 1159,000mil 2307,000mil 
-C13        0.1uF                    TopLayer    CAP-0603             325,704mil    2644,488mil   270      "CAP CER 0.1UF 50V X7R 0603"                                                325,704mil  2644,488mil 325,704mil  2674,488mil 
-C12        10uF                     TopLayer    CAP-0603             275,149mil    2644,488mil   270      "CAP CER 10UF 25V X5R 0603"                                                 275,149mil  2644,488mil 275,149mil  2674,488mil 
-C6         10uF                     TopLayer    CAP-0603             1351,000mil   2195,000mil   180      "CAP CER 10UF 25V X5R 0603"                                                 1351,000mil 2195,000mil 1381,000mil 2195,000mil 
-C3         1uF                      TopLayer    CAP-0603             1125,000mil   3153,000mil   180      "CAP CER 1UF 25V X5R 0603"                                                  1125,000mil 3153,000mil 1155,000mil 3153,000mil 
-C1         0.1uF                    BottomLayer CAP-0603             1615,000mil   3230,000mil   90       "CAP CER 0.1UF 50V X7R 0603"                                                1615,000mil 3230,000mil 1615,000mil 3200,000mil 
-SW1        B3U-1000P                TopLayer    B3U-1000P            1085,000mil   3242,000mil   180      "SWITCH TACTILE SPST-NO 0.05A 12V"                                          1085,000mil 3242,000mil 1151,929mil 3242,000mil 
-U7         SN74LV1T34DBVR           BottomLayer SOT-23-5             235,000mil    1098,000mil   180      "IC BUF NON-INVERT 5.5V SOT23-5"                                            235,000mil  1098,000mil 286,181mil  1135,402mil 
-U3         TPS565208DDCT            TopLayer    SOT_23-6             1324,000mil   1990,875mil   180      "IC REG BUCK ADJ 5A TSOT23-6"                                               1324,000mil 1990,875mil 1377,150mil 1953,474mil 
-Q2         MMBT2222A-7-F            BottomLayer sot-23               2137,000mil   2599,000mil   90       "TRANS NPN 40V 0.6A SMD SOT23-3"                                            2137,000mil 2599,000mil 2097,630mil 2561,599mil 
-Q1         MMBT2222A-7-F            BottomLayer sot-23               2296,000mil   2535,000mil   180      "TRANS NPN 40V 0.6A SMD SOT23-3"                                            2296,000mil 2535,000mil 2333,401mil 2495,630mil 
-P4         "Test Point"             TopLayer    Test_point           2243,709mil   1452,697mil   90       "Test Point ON"                                                             2243,709mil 1452,697mil 2243,709mil 1452,697mil 
-P3         "Test Point"             TopLayer    Test_point           2243,709mil   1549,111mil   90       "Test Point ON"                                                             2243,709mil 1549,111mil 2243,709mil 1549,111mil 
-P2         "Test Point"             TopLayer    Test_point           2243,709mil   1741,939mil   90       "Test Point ON"                                                             2243,709mil 1741,939mil 2243,709mil 1741,939mil 
-P1         "Test Point"             TopLayer    Test_point           2243,709mil   1838,353mil   90       "Test Point ON"                                                             2243,709mil 1838,353mil 2243,709mil 1838,353mil 
-C11        0.1uF                    TopLayer    CAP-0603             1288,000mil   1901,000mil   180      "CAP CER 0.1UF 50V X7R 0603"                                                1288,000mil 1901,000mil 1318,000mil 1901,000mil 
-C4         1uF                      TopLayer    CAP-0603             966,000mil    2103,000mil   270      "CAP CER 1UF 25V X5R 0603"                                                  966,000mil  2103,000mil 966,000mil  2133,000mil 
+Designator Layer       Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+J31        TopLayer    657,684mil    4,804mil      180      657,684mil  4,804mil    707,684mil  4,804mil    
+U11        BottomLayer 252,000mil    471,000mil    270      252,000mil  471,000mil  214,598mil  522,181mil  
+J17        TopLayer    10,000mil     586,000mil    90       10,000mil   486,000mil  10,000mil   486,000mil  
+J15        TopLayer    2501,235mil   2433,000mil   90       2501,235mil 2133,000mil 2501,235mil 2133,000mil 
+U1         TopLayer    1936,512mil   2904,394mil   0        1936,512mil 2904,394mil 1592,023mil 3254,000mil 
+J20        TopLayer    11,000mil     1820,000mil   270      11,000mil   1920,000mil 11,000mil   1920,000mil 
+J29        TopLayer    7,000mil      284,534mil    90       7,000mil    284,534mil  7,000mil    234,534mil  
+J28        TopLayer    7,000mil      2894,827mil   90       7,000mil    2894,827mil 7,000mil    2844,827mil 
+J25        TopLayer    7,000mil      1509,000mil   90       7,000mil    1509,000mil 7,000mil    1459,000mil 
+J24        TopLayer    7,000mil      888,006mil    90       7,000mil    888,006mil  7,000mil    838,006mil  
+J3         TopLayer    1308,245mil   4,804mil      180      1308,245mil 4,804mil    1358,245mil 4,804mil    
+J10        TopLayer    11,000mil     1200,000mil   270      11,000mil   1300,000mil 11,000mil   1300,000mil 
+J30        TopLayer    962,778mil    1,804mil      360      862,778mil  1,804mil    862,778mil  1,804mil    
+J14        TopLayer    2501,235mil   721,000mil    90       2501,235mil 421,000mil  2501,235mil 421,000mil  
+J4         TopLayer    2120,575mil   5,507mil      360      1971,575mil 7,507mil    1970,575mil 5,507mil    
+J13        TopLayer    10,000mil     2575,989mil   90       10,000mil   2475,989mil 10,000mil   2475,989mil 
+J12        TopLayer    11,000mil     2196,611mil   270      11,000mil   2296,611mil 11,000mil   2296,611mil 
+J11        TopLayer    351,592mil    1,804mil      360      251,592mil  1,804mil    251,592mil  1,804mil    
+J2         TopLayer    709,426mil    3205,181mil   180      858,426mil  3203,181mil 859,426mil  3205,181mil 
+J1         TopLayer    2501,235mil   1581,000mil   90       2501,235mil 1281,000mil 2501,235mil 1281,000mil 
+L3         TopLayer    1696,720mil   1991,686mil   360      1696,720mil 1991,686mil 1509,713mil 1991,686mil 
+C#2        TopLayer    1408,687mil   1784,402mil   180      1408,687mil 1784,402mil 1448,687mil 1784,402mil 
+C#1        TopLayer    1408,687mil   1862,079mil   180      1408,687mil 1862,079mil 1448,687mil 1862,079mil 
+C38        TopLayer    663,000mil    1340,000mil   90       663,000mil  1340,000mil 663,000mil  1190,394mil 
+R28        TopLayer    957,906mil    868,000mil    360      957,906mil  868,000mil  927,906mil  868,000mil  
+U13        TopLayer    976,118mil    992,859mil    0        976,118mil  992,859mil  921,000mil  1037,150mil 
+R30        BottomLayer 796,000mil    872,000mil    180      796,000mil  872,000mil  826,000mil  872,000mil  
+R29        BottomLayer 824,000mil    954,000mil    90       824,000mil  954,000mil  824,000mil  924,000mil  
+R27        TopLayer    1065,605mil   868,000mil    180      1065,605mil 868,000mil  1095,605mil 868,000mil  
+R26        BottomLayer 1206,480mil   936,481mil    180      1206,480mil 936,481mil  1299,000mil 936,481mil  
+R6         BottomLayer 980,000mil    1060,000mil   270      980,000mil  1060,000mil 980,000mil  1090,000mil 
+R5         BottomLayer 927,000mil    1061,000mil   270      927,000mil  1061,000mil 927,000mil  1091,000mil 
+L2         TopLayer    1276,000mil   1362,512mil   180      1276,000mil 1362,512mil 1435,449mil 1362,512mil 
+LED5       TopLayer    509,000mil    899,284mil    270      509,000mil  899,284mil  509,000mil  917,784mil  
+LED4       TopLayer    552,000mil    899,284mil    270      552,000mil  899,284mil  552,000mil  917,784mil  
+D3         TopLayer    1306,000mil   970,000mil    270      1306,000mil 970,000mil  1306,000mil 1048,740mil 
+D2         TopLayer    1031,236mil   1643,000mil   180      1031,236mil 1643,000mil 1119,819mil 1643,000mil 
+D1         TopLayer    957,000mil    1280,000mil   90       957,000mil  1280,000mil 957,000mil  1191,417mil 
+C39        BottomLayer 1030,000mil   986,000mil    90       1030,000mil 986,000mil  1030,000mil 956,000mil  
+C37        TopLayer    1661,394mil   889,426mil    360      1661,394mil 889,426mil  1511,787mil 889,426mil  
+C36        TopLayer    1151,000mil   948,000mil    90       1151,000mil 948,000mil  1151,000mil 918,000mil  
+C35        TopLayer    1098,000mil   948,000mil    90       1098,000mil 948,000mil  1098,000mil 918,000mil  
+C34        TopLayer    669,000mil    955,000mil    270      669,000mil  955,000mil  669,000mil  985,000mil  
+C33        TopLayer    719,667mil    955,000mil    270      719,667mil  955,000mil  719,667mil  985,000mil  
+C32        TopLayer    770,333mil    955,000mil    270      770,333mil  955,000mil  770,333mil  985,000mil  
+C31        TopLayer    821,000mil    955,000mil    270      821,000mil  955,000mil  821,000mil  985,000mil  
+LED3       TopLayer    561,000mil    2100,000mil   270      561,000mil  2100,000mil 561,000mil  2140,000mil 
+C5         TopLayer    640,000mil    2103,000mil   270      640,000mil  2103,000mil 640,000mil  2133,000mil 
+C7         TopLayer    1351,000mil   2140,250mil   180      1351,000mil 2140,250mil 1381,000mil 2140,250mil 
+R16        BottomLayer 572,173mil    2140,250mil   360      572,173mil  2140,250mil 542,173mil  2140,250mil 
+R15        BottomLayer 1354,000mil   3172,000mil   90       1354,000mil 3172,000mil 1354,000mil 3142,000mil 
+R14        BottomLayer 1752,000mil   1630,000mil   270      1752,000mil 1630,000mil 1752,000mil 1660,000mil 
+R13        BottomLayer 1276,000mil   1961,000mil   270      1276,000mil 1961,000mil 1276,000mil 1991,000mil 
+R12        TopLayer    1190,000mil   1998,399mil   90       1190,000mil 1998,399mil 1190,000mil 1968,399mil 
+R11        TopLayer    1227,000mil   3266,000mil   360      1227,000mil 3266,000mil 1197,000mil 3266,000mil 
+R10        TopLayer    1008,000mil   2368,000mil   360      1008,000mil 2368,000mil 978,000mil  2368,000mil 
+R9         TopLayer    1008,000mil   2419,000mil   0        1008,000mil 2419,000mil 978,000mil  2419,000mil 
+R7         TopLayer    1008,000mil   2508,000mil   0        1008,000mil 2508,000mil 978,000mil  2508,000mil 
+R2         TopLayer    1008,000mil   2556,071mil   0        1008,000mil 2556,071mil 978,000mil  2556,071mil 
+Q3         TopLayer    1002,000mil   2708,000mil   90       1002,000mil 2708,000mil 1041,370mil 2670,598mil 
+P6         TopLayer    2243,709mil   1356,283mil   0        2243,709mil 1356,283mil 2243,709mil 1356,283mil 
+P5         TopLayer    2243,709mil   1645,525mil   0        2243,709mil 1645,525mil 2243,709mil 1645,525mil 
+LED2       TopLayer    1350,000mil   3226,000mil   270      1350,000mil 3226,000mil 1350,000mil 3267,339mil 
+LED1       TopLayer    1426,000mil   3225,339mil   270      1426,000mil 3225,339mil 1426,000mil 3266,677mil 
+U2         TopLayer    803,000mil    2103,000mil   180      803,000mil  2103,000mil 893,000mil  2226,032mil 
+L1         TopLayer    659,425mil    2719,000mil   180      659,425mil  2719,000mil 846,433mil  2719,000mil 
+C42        BottomLayer 1777,000mil   548,000mil    90       1777,000mil 548,000mil  1777,000mil 518,000mil  
+C41        BottomLayer 1753,000mil   417,000mil    180      1753,000mil 417,000mil  1783,000mil 417,000mil  
+J16        TopLayer    1678,709mil   14,283mil     360      1678,709mil 14,283mil   1558,630mil 81,213mil   
+SB1        TopLayer    1376,000mil   2640,000mil   270      1376,000mil 2640,000mil 1376,000mil 2670,000mil 
+RF1        BottomLayer 1242,000mil   2668,000mil   180      1242,000mil 2668,000mil 1272,000mil 2668,000mil 
+CF3        TopLayer    1375,000mil   2752,000mil   90       1375,000mil 2752,000mil 1375,000mil 2722,000mil 
+CF2        TopLayer    1125,000mil   2836,000mil   360      1125,000mil 2836,000mil 1095,000mil 2836,000mil 
+CF1        TopLayer    1125,000mil   2786,000mil   360      1125,000mil 2786,000mil 1095,000mil 2786,000mil 
+C21        BottomLayer 1180,000mil   2519,000mil   0        1180,000mil 2519,000mil 1150,000mil 2519,000mil 
+C16        TopLayer    1696,720mil   1613,606mil   90       1696,720mil 1613,606mil 1696,720mil 1583,606mil 
+U6         TopLayer    1208,000mil   2544,000mil   360      1208,000mil 2544,000mil 1094,811mil 2719,000mil 
+U19        BottomLayer 265,149mil    1767,000mil   270      265,149mil  1767,000mil 227,747mil  1818,181mil 
+U17        TopLayer    2006,977mil   557,000mil    270      2006,977mil 557,000mil  1957,764mil 594,402mil  
+U14        TopLayer    1730,232mil   518,410mil    0        1730,232mil 518,410mil  1684,465mil 557,819mil  
+U4         TopLayer    1807,000mil   1622,000mil   180      1807,000mil 1622,000mil 1858,575mil 1584,598mil 
+R37        TopLayer    2029,000mil   468,000mil    180      2029,000mil 468,000mil  2059,000mil 468,000mil  
+R36        BottomLayer 1753,000mil   352,164mil    360      1753,000mil 352,164mil  1723,000mil 352,164mil  
+R32        BottomLayer 1671,858mil   587,819mil    90       1671,858mil 587,819mil  1671,858mil 557,819mil  
+D6         TopLayer    1723,000mil   1332,000mil   180      1723,000mil 1332,000mil 1813,551mil 1332,000mil 
+C54        TopLayer    1708,000mil   420,000mil    360      1708,000mil 420,000mil  1678,000mil 420,000mil  
+C53        BottomLayer 1671,858mil   445,000mil    270      1671,858mil 445,000mil  1671,858mil 475,000mil  
+C52        BottomLayer 1617,858mil   445,000mil    270      1617,858mil 445,000mil  1617,858mil 475,000mil  
+C51        TopLayer    1828,000mil   513,457mil    90       1828,000mil 513,457mil  1828,000mil 483,457mil  
+C50        TopLayer    1881,000mil   513,457mil    90       1881,000mil 513,457mil  1881,000mil 483,457mil  
+U8         BottomLayer 465,000mil    334,534mil    270      465,000mil  334,534mil  427,599mil  385,716mil  
+R78        BottomLayer 1757,968mil   -32,000mil    90       1757,968mil -32,000mil  1757,968mil -62,000mil  
+R77        BottomLayer 1599,496mil   60,847mil     360      1599,496mil 60,847mil   1569,496mil 60,847mil   
+R8         TopLayer    1140,000mil   1998,402mil   90       1140,000mil 1998,402mil 1140,000mil 1968,402mil 
+R4         BottomLayer 2097,000mil   2468,000mil   270      2097,000mil 2468,000mil 2097,000mil 2498,000mil 
+R3         BottomLayer 2303,000mil   2442,000mil   180      2303,000mil 2442,000mil 2333,000mil 2442,000mil 
+R1         BottomLayer 1455,000mil   3172,000mil   90       1455,000mil 3172,000mil 1455,000mil 3142,000mil 
+Q4         TopLayer    1794,000mil   1487,000mil   180      1794,000mil 1487,000mil 1831,402mil 1532,079mil 
+U10        TopLayer    290,787mil    3194,187mil   360      290,787mil  3194,187mil 239,606mil  3231,589mil 
+C17        TopLayer    1646,221mil   1613,606mil   90       1646,221mil 1613,606mil 1646,221mil 1583,606mil 
+C15        TopLayer    1351,000mil   2085,500mil   180      1351,000mil 2085,500mil 1381,000mil 2085,500mil 
+C14        TopLayer    1129,000mil   2307,000mil   180      1129,000mil 2307,000mil 1159,000mil 2307,000mil 
+C13        TopLayer    325,704mil    2644,488mil   270      325,704mil  2644,488mil 325,704mil  2674,488mil 
+C12        TopLayer    275,149mil    2644,488mil   270      275,149mil  2644,488mil 275,149mil  2674,488mil 
+C6         TopLayer    1351,000mil   2195,000mil   180      1351,000mil 2195,000mil 1381,000mil 2195,000mil 
+C3         TopLayer    1125,000mil   3153,000mil   180      1125,000mil 3153,000mil 1155,000mil 3153,000mil 
+C1         BottomLayer 1615,000mil   3230,000mil   90       1615,000mil 3230,000mil 1615,000mil 3200,000mil 
+SW1        TopLayer    1085,000mil   3242,000mil   180      1085,000mil 3242,000mil 1151,929mil 3242,000mil 
+U7         BottomLayer 269,000mil    1191,417mil   180      269,000mil  1191,417mil 320,181mil  1228,819mil 
+U3         TopLayer    1324,000mil   1990,875mil   180      1324,000mil 1990,875mil 1377,150mil 1953,474mil 
+Q2         BottomLayer 2137,000mil   2599,000mil   90       2137,000mil 2599,000mil 2097,630mil 2561,599mil 
+Q1         BottomLayer 2296,000mil   2535,000mil   180      2296,000mil 2535,000mil 2333,401mil 2495,630mil 
+P4         TopLayer    2243,709mil   1452,697mil   90       2243,709mil 1452,697mil 2243,709mil 1452,697mil 
+P3         TopLayer    2243,709mil   1549,111mil   90       2243,709mil 1549,111mil 2243,709mil 1549,111mil 
+P2         TopLayer    2243,709mil   1741,939mil   90       2243,709mil 1741,939mil 2243,709mil 1741,939mil 
+P1         TopLayer    2243,709mil   1838,353mil   90       2243,709mil 1838,353mil 2243,709mil 1838,353mil 
+C11        TopLayer    1288,000mil   1901,000mil   180      1288,000mil 1901,000mil 1318,000mil 1901,000mil 
+C4         TopLayer    966,000mil    2103,000mil   270      966,000mil  2103,000mil 966,000mil  2133,000mil 

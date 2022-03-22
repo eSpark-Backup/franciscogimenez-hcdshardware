@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+E:\Git\FranciscoGimenez-HCDSHardware\Design-Files(TI)\Project Outputs for Tray_illumination_Board\Pick Place for Tray_illumination_Board.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/03/22
+Time:       18:22
+Revision:   5a3331f17a2d0dbea4229f774498c06b55604b64
+Variant:    No variations
+Units used: mil
+
+"Designator","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"J1","BottomLayer","-140,000mil","785,000mil","90","-140,000mil","785,000mil","-140,000mil","735,000mil"
+"R3","BottomLayer","382,150mil","0,000mil","180","382,150mil","0,000mil","412,150mil","0,000mil"
+"R2","BottomLayer","382,150mil","787,402mil","180","382,150mil","787,402mil","412,150mil","787,402mil"
+"R1","BottomLayer","382,150mil","1574,803mil","180","382,150mil","1574,803mil","412,150mil","1574,803mil"
+"LED3","TopLayer","393,701mil","0,000mil","180","393,701mil","0,000mil","412,201mil","0,000mil"
+"LED2","TopLayer","393,701mil","787,402mil","180","393,701mil","787,402mil","412,201mil","787,402mil"
+"LED1","TopLayer","393,701mil","1574,803mil","180","393,701mil","1574,803mil","412,201mil","1574,803mil"

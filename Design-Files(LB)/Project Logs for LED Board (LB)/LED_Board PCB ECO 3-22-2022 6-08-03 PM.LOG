@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC_5V Pin=J1-1
+Removed Pin From Net: NetName=LED_0 Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Added Component: Designator=J1(HDR_M_1X3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/32896225776.html?spm=a2g0o.productlist.0.0.64116a18Q9OFX2&algo_pvid=aef74b9f-f029-40ba-a87b-4c3df7d87b26&algo_exp_id=aef74b9f-f029-40ba-a87b-4c3df7d87b26-3&pdp_ext_f=%7B%22sku_id%22%3A%2265850500267%22%7D&pdp_pi=-1%3B2.79%3B-1%3BUSD+3.72%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1Amps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-SIMPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=J1-1
+Added Pin To Net: NetName=LED_0 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3

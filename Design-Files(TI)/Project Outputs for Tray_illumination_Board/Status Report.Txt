@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Tray_illumination_Board.PrjPcb]
+   Generated File[Pick Place for Tray_illumination_Board.txt]
+   Generated File[Pick Place for Tray_illumination_Board.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 6:22:10 PM On 3/22/2022

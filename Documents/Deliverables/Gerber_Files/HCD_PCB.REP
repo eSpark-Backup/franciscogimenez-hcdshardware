@@ -2,28 +2,60 @@
 FileName = HCD_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : HCD_PCB.GPB
+Generating : Drill Drawing
+      File : HCD_PCB.GD1
 
-    Adding Layer      : Bottom Layer
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D33
-    D35
-    D36
-    D42
-    D174
-    D175
-    D176
-    D177
-    D178
-    D179
-    D181
-    D182
-    D183
+    D227
+    D228
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : HCD_PCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D227
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : HCD_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
@@ -35,57 +67,6 @@ Generating : Mechanical 2
 
 Used DCodes :
     D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : HCD_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D33
-    D35
-    D36
-    D42
-    D181
-    D182
-    D183
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : HCD_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D65
-    D67
-    D68
-    D73
-    D75
-    D81
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D221
-    D222
-    D223
 *************************************************************
 
 *************************************************************
@@ -135,6 +116,173 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : HCD_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D226
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : HCD_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : HCD_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D35
+    D37
+    D43
+    D183
+    D184
+    D185
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : HCD_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D67
+    D69
+    D70
+    D76
+    D82
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D223
+    D224
+    D225
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : HCD_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : HCD_PCB.GTL
 
@@ -177,6 +325,7 @@ Used DCodes :
     D59
     D60
     D61
+    D102
     D103
     D104
     D105
@@ -255,126 +404,8 @@ Used DCodes :
     D178
     D179
     D180
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : HCD_PCB.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D174
-    D175
-    D176
-    D177
-    D178
-    D179
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : HCD_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : HCD_PCB.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D225
-    D226
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : HCD_PCB.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D225
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : HCD_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D224
+    D181
+    D182
 *************************************************************
 
 *************************************************************
@@ -388,17 +419,16 @@ Generating : Bottom Layer
 
 Used DCodes :
     D12
-    D33
+    D31
     D35
-    D36
-    D42
+    D37
+    D43
+    D102
     D103
     D104
-    D105
+    D106
     D108
     D109
-    D174
-    D175
     D176
     D177
     D178
@@ -444,60 +474,32 @@ Used DCodes :
     D218
     D219
     D220
+    D221
+    D222
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : HCD_PCB.GTS
+Generating : Bottom Pad Master
+      File : HCD_PCB.GPB
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
+    D31
+    D35
+    D37
+    D43
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D183
+    D184
+    D185
 *************************************************************
 

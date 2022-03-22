@@ -1,0 +1,7 @@
+Change Component Description : Designator=LED1 Old Description=300mcd 2.8V Colorless transparence -40?~+85? White light 16mW 0402 Light Emitting Diodes (LED) ROHS New Description=300mcd 2.8V Colorless transparence -40?~+85? White light 16mW 0402 Light Emitting Diodes (LED) ROHS
+
+Change Component Description : Designator=LED2 Old Description=300mcd 2.8V Colorless transparence -40?~+85? White light 16mW 0402 Light Emitting Diodes (LED) ROHS New Description=300mcd 2.8V Colorless transparence -40?~+85? White light 16mW 0402 Light Emitting Diodes (LED) ROHS
+
+Change Component Description : Designator=LED3 Old Description=300mcd 2.8V Colorless transparence -40?~+85? White light 16mW 0402 Light Emitting Diodes (LED) ROHS New Description=300mcd 2.8V Colorless transparence -40?~+85? White light 16mW 0402 Light Emitting Diodes (LED) ROHS
+
+Change Net Name : Old Net Name=3V3 New Net Name=VCC_3V3

@@ -1,0 +1,8 @@
+Added Component: Designator=J31(HDR_F_1X2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.aliexpress.com/item/4000979967513.html?spm=a2g0o.productlist.0.0.2b6e354aZpPbhK&algo_pvid=88c62412-23c3-46df-904e-43779b8b810b&algo_exp_id=88c62412-23c3-46df-904e-43779b8b810b-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013144422249%22%7D&pdp_pi=-1%3B1.1%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=J31-1
+Added Pin To Net: NetName=GND Pin=J31-2
+Added Member To Class: ClassName=U_Sensor_Section Member=Component J31 HDR_F_1X2
